@@ -1,0 +1,16 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung in das Thema}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Grundlagen}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Transportwirtschaft als Teil der Logistik}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Definition Wirtschaftsinformatik und Nachhaltigkeit}{5}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Haputteil}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Herausforderungen im Transportsektor}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Digitale Ansatzpunkte für Nachhaltigkeit}{6}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Anwendungsszenarien}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Beschreibung}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Bewertung}{7}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Evaluation}{8}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Schlussbemerkungen}{9}{chapter.6}%
+\contentsline {chapter}{\nonumberline Literatur}{10}{chapter*.3}%
+\def \@chapapp {\appendixname }
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

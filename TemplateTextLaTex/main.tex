@@ -1,0 +1,239 @@
+%!TEX encoding = UTF-8 Unicode
+% --------------------------------------------------------------------------------
+\documentclass[
+	fontsize=12pt,
+	headings=small,
+	parskip=half,           % Ersetzt manuelles Setzen von parskip/parindent.
+	bibliography=totoc,
+	numbers=noenddot,       % Entfernt den letzten Punkt der Kapitelnummern.
+	open=any,               % Kapitel kann auf jeder Seite beginnen.
+%	final                   % Entfernt alle todonotes und den Entwurfstempel.
+]{scrreprt}
+% --------------------------------------------------------------------------------
+% Hinweis: Das Übersetzen dieser Datei funktioniert auch Online mit 
+% https://www.overleaf.com. Hierzu müssen neben dieser Datei im gleichen 
+% Verzeichnis die Dateien hinweiseabschlussarbeit.bib und stylesvs.tex liegen.
+% --------------------------------------------------------------------------------
+\input{stylesvs}
+
+\title{Wirtschaftsinformatik und Nachhaltigkeit:\\
+Anwendungsszenarien in der Transportwirtschaft}
+\author{Valentina Ermisch, Lisa-Sophie Kaisik}
+% \date{01.01.2015} % Für bestimmtes Datum diese Zeile aktivieren.
+
+\begin{document}
+
+% --------------------------------------------------------------------------------
+% ----- Muster für weitere Deckblätter siehe hinten
+% --------------------------------------------------------------------------------
+\begin{titlepage}
+\mbox{\parbox[t][1.75cm][b]{2.2cm}{\uhhlogo}}
+\begin{center}\Large
+	\vfill Seminararbeit
+	\vfill \makeatletter {\Large\textsf{\textbf{\@title}}\par} \makeatother
+	\vfill vorgelegt von \par\bigskip
+	\begin{tabu}{p{0.5\textwidth}p{0.5\textwidth}}
+	\centering Valentina Ermisch     & \centering Lisa-Sophie Kaisik \\[1ex]
+	\centering Matrikelnummer 1234567 & \centering Matrikelnummer 7726396 \\
+	\centering Studiengang BWL & \centering Studiengang WINF \\
+	\end{tabu}
+	\vfill MIN-Fakultät \par Fachbereich Wirtschaftsinformatik
+	\vfill \makeatletter eingereicht am {\@date} \makeatother
+	\vfill Betreuer: Prof. Dr. Markus Nüttgens
+\end{center}
+\ifoptionfinal{}{
+\begin{tikzpicture}[remember picture, overlay]
+	\node[draw, red, font=\ttfamily\bfseries\Large, xshift=30mm, yshift=238mm, rotate=340, text centered, text width=6cm, very thick, rounded corners=4mm] at (current page.south) {Entwurf vom \today};
+\end{tikzpicture}
+%\begin{tikzpicture}[overlay]
+%	\node[draw, blue, font=\sffamily\Large, xshift=0mm, yshift=242mm, rotate=0, text centered, rounded corners=1mm] at (current page.south) {Muster des Deckblatts für Seminararbeiten};
+%\end{tikzpicture}
+}
+\end{titlepage}
+
+% --------------------------------------------------------------------------------
+% ----- Ab hier folgt der Haupttext
+% --------------------------------------------------------------------------------
+
+%\chapter*{Aufgabenstellung}
+
+%Soweit eine ausformulierte Aufgabenstellung mit der Betreuerin bzw. dem Betreuer vereinbart wurde, diese bitte hier einfügen.
+
+\chapter*{Zusammenfassung}
+
+Für die eilige Leserin bzw. den eiligen Leser sollen auf etwa einer halben, maximal einer Seite die wichtigsten Inhalte, Erkenntnisse, Neuerungen bzw. Ergebnisse der Arbeit beschrieben werden.
+
+Durch eine solche Zusammenfassung (im Engl. auch Abstract genannt) am Anfang der Arbeit wird die Arbeit deutlich aufgewertet. Hier sollte vermittelt werden, warum man die Arbeit lesen sollte.
+
+\tableofcontents
+
+\chapter{Einleitung in das Thema}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\chapter{Grundlagen}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+\section{Transportwirtschaft als Teil der Logistik}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\section{Definition Wirtschaftsinformatik und Nachhaltigkeit}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\chapter{Haputteil}
+
+Damit etwas im Literaturverzeichnis steht, zitieren wir sowohl 
+\cite{Beut2009,ScWe2007,Pfit90} als auch
+\cite{Kili2006,Lamp1981,ThKZ2002,Chau81,Chau88}, nicht zu vergessen
+\cite{InBr2009,WWPK2010,HSFN2009,GoRS99,WaMS2008} und
+\cite{CCC2009,Heise2011,textwahrnehmung}
+als Quellen.
+
+\section{Herausforderungen im Transportsektor}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\section{Digitale Ansatzpunkte für Nachhaltigkeit}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\chapter{Anwendungsszenarien}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\section{Beschreibung}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\section{Bewertung}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\chapter{Evaluation}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\chapter{Schlussbemerkungen}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+% --------------------------------------------------------------------------------
+% ----- Literaturverzeichnis
+% --------------------------------------------------------------------------------
+\begin{raggedright} % raggedright schaltet den Blocksatz ab und erzeugt ein stimmigeres Schriftbild im Literaturverzeichnis.
+  \printbibliography % alphabetic ist definiert unter biblatex in style.svs
+  \label{sec:literaturverzeichnis}
+\end{raggedright}
+
+% --------------------------------------------------------------------------------
+% ----- Anhang
+% --------------------------------------------------------------------------------
+\appendix
+\setcounter{figure}{0}
+\renewcommand\thetable{A.\arabic{figure}}
+\setcounter{table}{0}
+\renewcommand\thetable{A.\arabic{table}}
+
+% --------------------------------------------------------------------------------
+% ----- Eidesstattliche Versicherung
+% --------------------------------------------------------------------------------
+\chapter*{Eidesstattliche Versicherung}
+\vspace{1cm}
+
+Ich erkläre eidesstattlich, dass ich die Arbeit selbständig angefertigt, keine anderen als die angegebenen Hilfsmittel benutzt und alle aus ungedruckten Quellen, gedruckter Literatur oder aus dem Internet im Wortlaut oder im wesentlichen Inhalt übernommenen Formulierungen und Konzepte gemäß den Richtlinien wissenschaftlicher Arbeiten zitiert, durch Fußnoten gekennzeichnet bzw. mit genauer Quellenangabe kenntlich gemacht habe.
+
+Ich versichere, dass auch im Anwendungsfall von generativer Künstlicher Intelligenz (genKI) meine eigene schöpferische Leistung der erhebliche Anteil in dieser Seminararbeit ist und ich die genutzte genKI detailliert in einem Anhang in meiner Seminararbeit aufgeführt und die Zitate in der Seminararbeit deutlich gekennzeichnet habe. Dieser Anhang ist Teil meiner Seminararbeit. Ich bin für ggfs. durch genKI generierte Inhalte, die Einhaltung urheberrechtlicher Bestimmungen, meine eigenständige Erstellung sowie für die wissenschaftliche Integrität meiner Seminararbeit selbst verantwortlich. Mir ist bekannt, dass fehlende oder fehlerhafte Angaben als Täuschungsversuch gewertet werden können. Ich erkläre, dass ich die Bestimmungen zum Urheberrecht und Datenschutz (DSGVO) sowie die jeweils geltenden Richtlinie der Fakultät für Wirtschaftsinformatik zur Anwendung von genKI-Tools erfüllt habe und erfüllen werde.
+
+\makeatletter
+Hamburg, den {\@date}
+\makeatother
+
+\vspace{2cm}
+\rule{6cm}{0.25pt}\\
+\makeatletter
+{\@author} \par
+\makeatother
+
+% --------------------------------------------------------------------------------
+% ----- Literaturliste (Muster)
+% --------------------------------------------------------------------------------
+\newpage
+\thispagestyle{empty}
+\label{sec:literaturliste}
+\par\textbf{\textsf{Thema:}} Wirtschaftsinformatik und Nachhaltigkeit: Anwendungsszenarien in der Transportwirtschaft
+\par\textbf{\textsf{Bearbeiter:}} Valentina Ermisch, Lisa-Sophie Kaisik
+\par\textbf{\textsf{Datum:}} \today
+\bigskip
+% ====> Delete me
+\begin{tikzpicture}[overlay]
+	\node[draw, blue, font=\sffamily\Large, xshift=80mm, yshift=-6mm, rounded corners=1mm]{Muster der Literaturliste};
+\end{tikzpicture}
+% <==== /Delete me
+\section*{Literaturliste}
+
+% ----- Nachfolgend eine händisch gesetzte Literaturliste, die sich exakt an die Syntax im Abschnitt \ref{sec:literaturhowto} hält. Wir nutzen diese aber hier nicht, sondern lassen BibLaTeX die Einträge formatieren.
+\iffalse
+David Chaum: Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms. Communications of the ACM 24/2 (1981) 84--88.
+
+David Chaum: The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability. Journal of Cryptology 1/1 (1988) 65--75.
+
+David Goldschlag, Michael Reed, Paul Syverson: Onion Routing for Anonymous and Private Internet Connections. Communications of the ACM 42/2 (1999) 39--41.
+
+Andreas Pfitzmann: Diensteintegrierende Kommunikationsnetze mit teilnehmerüberprüfbarem Datenschutz. IFB 234, Springer-Verlag, Berlin 1990.
+
+Wei Wang, Mehul Motani, Vikram Srinivasan: Dependent link padding algorithms for low latency anonymity systems. Proc. 15th ACM conference on Computer and communications security. ACM, 2008, 323--332.
+\fi
+
+% ----- Nachfolgend die Ausgabe unter Verwendung von BibLaTeX. Die Formatierung übernimmt BibLaTeX. Dadurch wird es zu Abweichungen von der vorgegebenen Syntax kommen. Dies ist tolerabel, da es i.W. auf Einheitlichkeit ankommt, nicht auf eine dogmatische Einhaltung der Syntax.
+\fullcite{Chau81}
+
+\fullcite{Chau88}
+
+\fullcite{GoRS99}
+
+\fullcite{Pfit90}
+
+\fullcite{WaMS2008}
+
+% --------------------------------------------------------------------------------
+% ----- Wiss. Kurzzusammenfassung (Muster)
+% --------------------------------------------------------------------------------
+%\newpage
+%\thispagestyle{empty}
+%\label{sec:kurzusammenfassung}
+%\par\textbf{\textsf{Thema:}} Privacy Enhancing Technologies zum Schutz von Kommunikationsbeziehungen
+%\par\textbf{\textsf{Bearbeiter:}} Eva Musterfrau, Heinz Mustermann
+%\par\textbf{\textsf{Datum:}} \today
+%\bigskip
+% ====> Delete me
+%\begin{tikzpicture}[overlay]
+	%\node[draw, blue, font=\sffamily\Large, xshift=60mm, yshift=-6mm, rounded corners=1mm]{Muster der Wiss. Kurzzusammenfassung};
+	%\node[font=\sffamily\small\itshape, xshift=72mm, yshift=-14mm]{Umfang: 1-3 Seiten, wenn keine konkrete Vorgabe};
+%\end{tikzpicture}
+% <==== /Delete me
+%\section*{Überschrift}
+
+%Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+%Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+%Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+%\section*{Überschrift}
+
+%Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+%Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+%Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+% --------------------------------------------------------------------------------
+% ----- Todo list
+% --------------------------------------------------------------------------------
+\listoftodos
+% \todototoc
+
+\end{document}
