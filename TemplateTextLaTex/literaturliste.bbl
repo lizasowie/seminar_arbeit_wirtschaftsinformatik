@@ -1,0 +1,124 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{Fareed2024}{article}{}
+      \name{author}{4}{}{%
+        {{hash=59591cec781b7b6b7a140fb45e40bc4b}{%
+           family={Fareed},
+           familyi={F\bibinitperiod},
+           given={Anaiz\bibnamedelima Gul},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=ef027ff2e529c4d41a4cf4b26f767298}{%
+           family={De\bibnamedelima Felice},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5767e0a5527d10990fc362939fbb282a}{%
+           family={Forcina},
+           familyi={F\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4c864f1a5abc973bbc56565e6408304d}{%
+           family={Petrillo},
+           familyi={P\bibinitperiod},
+           given={Antonella},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{db8bfbb0cfeaef7de5c395b6edc82649}
+      \strng{fullhash}{6cdd60860686978275fc1486cb5ac88d}
+      \strng{bibnamehash}{db8bfbb0cfeaef7de5c395b6edc82649}
+      \strng{authorbibnamehash}{db8bfbb0cfeaef7de5c395b6edc82649}
+      \strng{authornamehash}{db8bfbb0cfeaef7de5c395b6edc82649}
+      \strng{authorfullhash}{6cdd60860686978275fc1486cb5ac88d}
+      \field{labelalpha}{Far+24}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Futures}
+      \field{title}{Role and applications of advanced digital technologies in achieving sustainability in multimodal logistics operations: A systematic literature review}
+      \field{volume}{8}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{100278}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.sftr.2024.100278
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666188824001278
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666188824001278
+      \endverb
+    \endentry
+    \entry{UN21}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2d661e9167bd3a268ea03a3ee152926c}{%
+           family={Nations},
+           familyi={N\bibinitperiod},
+           given={United},
+           giveni={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=4adb29cb57e96b3dfae7fd105d634df3}{%
+           family={Platzer},
+           familyi={P\bibinitperiod},
+           given={Kathryn},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {United Nations, Department of Economic}%
+        {Social Affairs}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{fullhash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{bibnamehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{authorbibnamehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{authornamehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{authorfullhash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{editorbibnamehash}{4adb29cb57e96b3dfae7fd105d634df3}
+      \strng{editornamehash}{4adb29cb57e96b3dfae7fd105d634df3}
+      \strng{editorfullhash}{4adb29cb57e96b3dfae7fd105d634df3}
+      \field{labelalpha}{Nat21}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Design and graphics by Camilo J. Salomon. Reprinted 2021.}
+      \field{title}{Sustainable Transport, Sustainable Development: Interagency Report for the Second Global Sustainable Transport Conference}
+      \field{type}{techreport}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.un.org/en/conferences/transport2021
+      \endverb
+      \verb{url}
+      \verb https://www.un.org/en/conferences/transport2021
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

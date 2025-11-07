@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  7 NOV 2025 11:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  7 NOV 2025 11:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/main.tex"
-(c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/main.tex
+**"c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/literaturliste.tex"
+(c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/literaturliste.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
-(C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrreprt.cls
-Document Class: scrreprt 2025/09/09 v3.48 KOMA-Script document class (report)
+(C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
+Document Class: scrartcl 2025/09/09 v3.48 KOMA-Script document class (article)
 (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
 Package: scrkbase 2025/09/09 v3.48 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
@@ -32,8 +32,8 @@ Package: tocbasic 2025/09/09 v3.48 KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 143.
-Class scrreprt Info: File `scrsize12pt.clo' used to setup font sizes on input line 2707.
+(tocbasic)             for `toc' on input line 141.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input line 2486.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize12pt.clo
 File: scrsize12pt.clo 2025/09/09 v3.48 KOMA-Script font size class option (12pt)
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
@@ -63,57 +63,53 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              on input line 1807.
 )
 \c@part=\count188
-\c@chapter=\count189
-\c@section=\count190
-\c@subsection=\count191
-\c@subsubsection=\count192
-\c@paragraph=\count193
-\c@subparagraph=\count194
-\scr@dte@chapter@maxnumwidth=\skip54
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\chapter on input line 6080.
-\scr@dte@section@maxnumwidth=\skip55
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\section on input line 6091.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\section on input line 6091.
-\scr@dte@part@maxnumwidth=\skip56
-Class scrreprt Info: using compatibility default `afterindent=true'
-(scrreprt)           for `\part on input line 6100.
-\scr@dte@subsection@maxnumwidth=\skip57
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\subsection on input line 6110.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\subsection on input line 6110.
-\scr@dte@subsubsection@maxnumwidth=\skip58
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\subsubsection on input line 6120.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\subsubsection on input line 6120.
-\scr@dte@paragraph@maxnumwidth=\skip59
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\paragraph on input line 6131.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\paragraph on input line 6131.
-\scr@dte@subparagraph@maxnumwidth=\skip60
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\subparagraph on input line 6141.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\subparagraph on input line 6141.
-\abovecaptionskip=\skip61
-\belowcaptionskip=\skip62
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\scr@dte@section@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 5161.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 5161.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 5169.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 5179.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 5179.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 5189.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 5189.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 5200.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 5200.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 5210.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 5210.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
 \c@pti@nb@sid@b@x=\box52
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 7348.
-\scr@dte@figure@maxnumwidth=\skip63
-\c@figure=\count195
+(tocbasic)             for `lof' on input line 6410.
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count194
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 7361.
-\scr@dte@table@maxnumwidth=\skip64
-\c@table=\count196
-Class scrreprt Info: Redefining `\numberline' on input line 7532.
+(tocbasic)             for `lot' on input line 6422.
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count195
+Class scrartcl Info: Redefining `\numberline' on input line 6592.
 \bibindent=\dimen140
 ) (stylesvs.tex (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -123,12 +119,12 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@posthook=\toks19
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count197
+\babel@savecnt=\count196
 \U@D=\dimen141
 \l@unhyphenated=\language79
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count198
+\bbl@dirlevel=\count197
 
 *************************************
 * Local config file bblopts.cfg used
@@ -147,11 +143,11 @@ Package babel Info: Importing font and identification data for ngerman
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count199
+\etb@tempcnta=\count198
 )
 \MT@toks=\toks20
 \MT@tempbox=\box53
-\MT@count=\count266
+\MT@count=\count199
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks21
@@ -160,12 +156,12 @@ LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen142
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count267
+\MT@listname@count=\count266
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip65
+\MT@outer@space=\skip64
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
@@ -174,12 +170,12 @@ File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count268
-\csq@gtype=\count269
-\csq@glevel=\count270
-\csq@qlevel=\count271
-\csq@maxlvl=\count272
-\csq@tshold=\count273
+\csq@reset=\count267
+\csq@gtype=\count268
+\csq@glevel=\count269
+\csq@qlevel=\count270
+\csq@maxlvl=\count271
+\csq@tshold=\count272
 \csq@ltx@everypar=\toks22
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
@@ -194,20 +190,20 @@ Package csquotes Info: Enabling multilingual quotes.
 Package: scrhack 2024-09-04 v3.42 scrhack emulation package
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip66
-\RaggedLeftLeftskip=\skip67
-\RaggedRightLeftskip=\skip68
-\CenteringRightskip=\skip69
-\RaggedLeftRightskip=\skip70
-\RaggedRightRightskip=\skip71
-\CenteringParfillskip=\skip72
-\RaggedLeftParfillskip=\skip73
-\RaggedRightParfillskip=\skip74
-\JustifyingParfillskip=\skip75
-\CenteringParindent=\skip76
-\RaggedLeftParindent=\skip77
-\RaggedRightParindent=\skip78
-\JustifyingParindent=\skip79
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
@@ -267,7 +263,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count274
+\lrq@indent=\count273
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -276,63 +272,63 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count275
-\c@listtotal=\count276
-\c@listcount=\count277
-\c@liststart=\count278
-\c@liststop=\count279
-\c@citecount=\count280
-\c@citetotal=\count281
-\c@multicitecount=\count282
-\c@multicitetotal=\count283
-\c@instcount=\count284
-\c@maxnames=\count285
-\c@minnames=\count286
-\c@maxitems=\count287
-\c@minitems=\count288
-\c@citecounter=\count289
-\c@maxcitecounter=\count290
-\c@savedcitecounter=\count291
-\c@uniquelist=\count292
-\c@uniquename=\count293
-\c@refsection=\count294
-\c@refsegment=\count295
-\c@maxextratitle=\count296
-\c@maxextratitleyear=\count297
-\c@maxextraname=\count298
-\c@maxextradate=\count299
-\c@maxextraalpha=\count300
-\c@abbrvpenalty=\count301
-\c@highnamepenalty=\count302
-\c@lownamepenalty=\count303
-\c@maxparens=\count304
-\c@parenlevel=\count305
-\blx@tempcnta=\count306
-\blx@tempcntb=\count307
-\blx@tempcntc=\count308
-\c@blx@maxsection=\count309
-\blx@maxsegment@0=\count310
-\blx@notetype=\count311
-\blx@parenlevel@text=\count312
-\blx@parenlevel@foot=\count313
-\blx@sectionciteorder@0=\count314
-\blx@sectionciteorderinternal@0=\count315
-\blx@entrysetcounter=\count316
-\blx@biblioinstance=\count317
-\labelnumberwidth=\skip80
-\labelalphawidth=\skip81
-\biblabelsep=\skip82
-\bibitemsep=\skip83
-\bibnamesep=\skip84
-\bibinitsep=\skip85
-\bibparsep=\skip86
-\bibhang=\skip87
+\c@tabx@nest=\count274
+\c@listtotal=\count275
+\c@listcount=\count276
+\c@liststart=\count277
+\c@liststop=\count278
+\c@citecount=\count279
+\c@citetotal=\count280
+\c@multicitecount=\count281
+\c@multicitetotal=\count282
+\c@instcount=\count283
+\c@maxnames=\count284
+\c@minnames=\count285
+\c@maxitems=\count286
+\c@minitems=\count287
+\c@citecounter=\count288
+\c@maxcitecounter=\count289
+\c@savedcitecounter=\count290
+\c@uniquelist=\count291
+\c@uniquename=\count292
+\c@refsection=\count293
+\c@refsegment=\count294
+\c@maxextratitle=\count295
+\c@maxextratitleyear=\count296
+\c@maxextraname=\count297
+\c@maxextradate=\count298
+\c@maxextraalpha=\count299
+\c@abbrvpenalty=\count300
+\c@highnamepenalty=\count301
+\c@lownamepenalty=\count302
+\c@maxparens=\count303
+\c@parenlevel=\count304
+\blx@tempcnta=\count305
+\blx@tempcntb=\count306
+\blx@tempcntc=\count307
+\c@blx@maxsection=\count308
+\blx@maxsegment@0=\count309
+\blx@notetype=\count310
+\blx@parenlevel@text=\count311
+\blx@parenlevel@foot=\count312
+\blx@sectionciteorder@0=\count313
+\blx@sectionciteorderinternal@0=\count314
+\blx@entrysetcounter=\count315
+\blx@biblioinstance=\count316
+\labelnumberwidth=\skip79
+\labelalphawidth=\skip80
+\biblabelsep=\skip81
+\bibitemsep=\skip82
+\bibnamesep=\skip83
+\bibinitsep=\skip84
+\bibparsep=\skip85
+\bibhang=\skip86
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count318
-\c@maxcomprange=\count319
-\c@mincompwidth=\count320
+\c@mincomprange=\count317
+\c@maxcomprange=\count318
+\c@mincompwidth=\count319
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -342,88 +338,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'alphabetic.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count321
-\c@savedafterword=\count322
-\c@annotator=\count323
-\c@savedannotator=\count324
-\c@author=\count325
-\c@savedauthor=\count326
-\c@bookauthor=\count327
-\c@savedbookauthor=\count328
-\c@commentator=\count329
-\c@savedcommentator=\count330
-\c@editor=\count331
-\c@savededitor=\count332
-\c@editora=\count333
-\c@savededitora=\count334
-\c@editorb=\count335
-\c@savededitorb=\count336
-\c@editorc=\count337
-\c@savededitorc=\count338
-\c@foreword=\count339
-\c@savedforeword=\count340
-\c@holder=\count341
-\c@savedholder=\count342
-\c@introduction=\count343
-\c@savedintroduction=\count344
-\c@namea=\count345
-\c@savednamea=\count346
-\c@nameb=\count347
-\c@savednameb=\count348
-\c@namec=\count349
-\c@savednamec=\count350
-\c@translator=\count351
-\c@savedtranslator=\count352
-\c@shortauthor=\count353
-\c@savedshortauthor=\count354
-\c@shorteditor=\count355
-\c@savedshorteditor=\count356
-\c@labelname=\count357
-\c@savedlabelname=\count358
-\c@institution=\count359
-\c@savedinstitution=\count360
-\c@lista=\count361
-\c@savedlista=\count362
-\c@listb=\count363
-\c@savedlistb=\count364
-\c@listc=\count365
-\c@savedlistc=\count366
-\c@listd=\count367
-\c@savedlistd=\count368
-\c@liste=\count369
-\c@savedliste=\count370
-\c@listf=\count371
-\c@savedlistf=\count372
-\c@location=\count373
-\c@savedlocation=\count374
-\c@organization=\count375
-\c@savedorganization=\count376
-\c@origlocation=\count377
-\c@savedoriglocation=\count378
-\c@origpublisher=\count379
-\c@savedorigpublisher=\count380
-\c@publisher=\count381
-\c@savedpublisher=\count382
-\c@language=\count383
-\c@savedlanguage=\count384
-\c@origlanguage=\count385
-\c@savedoriglanguage=\count386
-\c@pageref=\count387
-\c@savedpageref=\count388
-\shorthandwidth=\skip88
-\shortjournalwidth=\skip89
-\shortserieswidth=\skip90
-\shorttitlewidth=\skip91
-\shortauthorwidth=\skip92
-\shorteditorwidth=\skip93
-\locallabelnumberwidth=\skip94
-\locallabelalphawidth=\skip95
-\localshorthandwidth=\skip96
-\localshortjournalwidth=\skip97
-\localshortserieswidth=\skip98
-\localshorttitlewidth=\skip99
-\localshortauthorwidth=\skip100
-\localshorteditorwidth=\skip101
+\c@afterword=\count320
+\c@savedafterword=\count321
+\c@annotator=\count322
+\c@savedannotator=\count323
+\c@author=\count324
+\c@savedauthor=\count325
+\c@bookauthor=\count326
+\c@savedbookauthor=\count327
+\c@commentator=\count328
+\c@savedcommentator=\count329
+\c@editor=\count330
+\c@savededitor=\count331
+\c@editora=\count332
+\c@savededitora=\count333
+\c@editorb=\count334
+\c@savededitorb=\count335
+\c@editorc=\count336
+\c@savededitorc=\count337
+\c@foreword=\count338
+\c@savedforeword=\count339
+\c@holder=\count340
+\c@savedholder=\count341
+\c@introduction=\count342
+\c@savedintroduction=\count343
+\c@namea=\count344
+\c@savednamea=\count345
+\c@nameb=\count346
+\c@savednameb=\count347
+\c@namec=\count348
+\c@savednamec=\count349
+\c@translator=\count350
+\c@savedtranslator=\count351
+\c@shortauthor=\count352
+\c@savedshortauthor=\count353
+\c@shorteditor=\count354
+\c@savedshorteditor=\count355
+\c@labelname=\count356
+\c@savedlabelname=\count357
+\c@institution=\count358
+\c@savedinstitution=\count359
+\c@lista=\count360
+\c@savedlista=\count361
+\c@listb=\count362
+\c@savedlistb=\count363
+\c@listc=\count364
+\c@savedlistc=\count365
+\c@listd=\count366
+\c@savedlistd=\count367
+\c@liste=\count368
+\c@savedliste=\count369
+\c@listf=\count370
+\c@savedlistf=\count371
+\c@location=\count372
+\c@savedlocation=\count373
+\c@organization=\count374
+\c@savedorganization=\count375
+\c@origlocation=\count376
+\c@savedoriglocation=\count377
+\c@origpublisher=\count378
+\c@savedorigpublisher=\count379
+\c@publisher=\count380
+\c@savedpublisher=\count381
+\c@language=\count382
+\c@savedlanguage=\count383
+\c@origlanguage=\count384
+\c@savedoriglanguage=\count385
+\c@pageref=\count386
+\c@savedpageref=\count387
+\shorthandwidth=\skip87
+\shortjournalwidth=\skip88
+\shortserieswidth=\skip89
+\shorttitlewidth=\skip90
+\shortauthorwidth=\skip91
+\shorteditorwidth=\skip92
+\locallabelnumberwidth=\skip93
+\locallabelalphawidth=\skip94
+\localshorthandwidth=\skip95
+\localshortjournalwidth=\skip96
+\localshortserieswidth=\skip97
+\localshorttitlewidth=\skip98
+\localshortauthorwidth=\skip99
+\localshorteditorwidth=\skip100
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
@@ -433,19 +429,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count389
-\c@textcitetotal=\count390
-\c@textcitemaxnames=\count391
-\c@biburlbigbreakpenalty=\count392
-\c@biburlbreakpenalty=\count393
-\c@biburlnumpenalty=\count394
-\c@biburlucpenalty=\count395
-\c@biburllcpenalty=\count396
+\c@textcitecount=\count388
+\c@textcitetotal=\count389
+\c@textcitemaxnames=\count390
+\c@biburlbigbreakpenalty=\count391
+\c@biburlbreakpenalty=\count392
+\c@biburlnumpenalty=\count393
+\c@biburlucpenalty=\count394
+\c@biburllcpenalty=\count395
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count397
+\c@smartand=\count396
 )
 Package biblatex Info: Trying to load bibliography style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.bbx' found.
@@ -455,8 +451,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count398
-\c@bbx:relatedtotal=\count399
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
 ))
 Package biblatex Info: Trying to load citation style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.cbx' found.
@@ -484,7 +480,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2024-01-04 L3 programming layer (loader) 
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count400
+\l__color_backend_stack_int=\count399
 \l__pdf_internal_box=\box54
 ))
 Package biblatex Info: ... and expl3
@@ -504,15 +500,15 @@ Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
 )) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/currfile\currfile-abspath.sty
 Package: currfile-abspath 2024/03/14 v1.0 Provides absolute file paths, the parent working directory and the main file name
 )
-\c@currfiledepth=\count401
+\c@currfiledepth=\count400
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count402
-\Gm@cntv=\count403
-\c@Gm@tempcnt=\count404
+\Gm@cnth=\count401
+\Gm@cntv=\count402
+\c@Gm@tempcnt=\count403
 \Gm@bindingoffset=\dimen143
 \Gm@wd@mp=\dimen144
 \Gm@odd@mp=\dimen145
@@ -538,7 +534,7 @@ Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 Package caption Info: \@makecaption = \long macro:#1#2->\@abovecaptionbreak \vskip \abovecaptionskip \@abovecaptionbreak \@@makecaption \@firstofone {#1}{#2}\@belowcaptionbreak \vskip \belowcaptionskip \@belowcaptionbreak  on input line 1175.
 )
-\c@float@type=\count405
+\c@float@type=\count404
 \float@exts=\toks24
 \float@box=\box55
 \@floatcapt=\box56
@@ -549,28 +545,28 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 \FB@wd=\dimen159
 \FBo@wd=\dimen160
 \FBc@wd=\dimen161
-\FBo@ht=\skip102
-\FBc@ht=\skip103
-\FBf@ht=\skip104
-\FBo@max=\skip105
-\FBc@max=\skip106
-\FBf@max=\skip107
-\c@FBl@b=\count406
-\floatbox@depth=\count407
-\c@FRobj=\count408
-\c@FRsobj=\count409
-\Xhsize=\skip108
-\sXhsize=\skip109
-\Zhsize=\skip110
-\sZhsize=\skip111
+\FBo@ht=\skip101
+\FBc@ht=\skip102
+\FBf@ht=\skip103
+\FBo@max=\skip104
+\FBc@max=\skip105
+\FBf@max=\skip106
+\c@FBl@b=\count405
+\floatbox@depth=\count406
+\c@FRobj=\count407
+\c@FRsobj=\count408
+\Xhsize=\skip107
+\sXhsize=\skip108
+\Zhsize=\skip109
+\sZhsize=\skip110
 \flrow@rowbox=\box57
 \FR@Zunitlength=\dimen162
-\c@FBcnt=\count410
-\FPOScnt=\count411
-\LTleft=\skip112
-\LTright=\skip113
-\LTleft=\skip114
-\LTright=\skip115
+\c@FBcnt=\count409
+\FPOScnt=\count410
+\LTleft=\skip111
+\LTright=\skip112
+\LTleft=\skip113
+\LTright=\skip114
 \flrow@types=\toks26
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/floatrowbytocbasic\floatrowbytocbasic.sty
 Package: floatrowbytocbasic 2023-08-16 v1.0 improved floatrow package using tocbasic
@@ -580,20 +576,20 @@ Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 )
 
-Class scrreprt Warning: Usage of package `titlesec' together
-(scrreprt)              with a KOMA-Script class is not recommended.
-(scrreprt)              I'd suggest to use KOMA-Script features
-(scrreprt)              like \setkomafont, \RedeclareSectionCommand, \sectionlinesformat
-(scrreprt)              and several others to re-configure section
-(scrreprt)              headings.
-(scrreprt)              Nevertheless, using requested
-(scrreprt)              package `titlesec' on input line 63.
+Class scrartcl Warning: Usage of package `titlesec' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use KOMA-Script features
+(scrartcl)              like \setkomafont, \RedeclareSectionCommand, \sectionlinesformat
+(scrartcl)              and several others to re-configure section
+(scrartcl)              headings.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `titlesec' on input line 63.
 
 (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box58
-\beforetitleunit=\skip116
-\aftertitleunit=\skip117
+\beforetitleunit=\skip115
+\aftertitleunit=\skip116
 \ttl@plus=\dimen163
 \ttl@minus=\dimen164
 \ttl@toksa=\toks27
@@ -644,22 +640,22 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \ar@mcellbox=\box59
 \extrarowheight=\dimen171
 \NC@list=\toks28
-\extratabsurround=\skip118
-\backup@length=\skip119
+\extratabsurround=\skip117
+\backup@length=\skip118
 \ar@cellbox=\box60
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box61
-\sift@deathcycles=\count412
+\sift@deathcycles=\count411
 \@vwid@loff=\dimen172
 \@vwid@roff=\dimen173
 )
-\c@taburow=\count413
-\tabu@nbcols=\count414
-\tabu@cnt=\count415
-\tabu@Xcol=\count416
-\tabu@alloc=\count417
-\tabu@nested=\count418
+\c@taburow=\count412
+\tabu@nbcols=\count413
+\tabu@cnt=\count414
+\tabu@Xcol=\count415
+\tabu@alloc=\count416
+\tabu@nested=\count417
 \tabu@target=\dimen174
 \tabu@spreadtarget=\dimen175
 \tabu@naturalX=\dimen176
@@ -675,29 +671,29 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@arstrutbox=\box63
 \tabu@hleads=\box64
 \tabu@vleads=\box65
-\tabu@cellskip=\skip120
+\tabu@cellskip=\skip119
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
-\multirow@colwidth=\skip121
-\multirow@cntb=\count419
-\multirow@dima=\skip122
+\multirow@colwidth=\skip120
+\multirow@cntb=\count418
+\multirow@dima=\skip121
 \bigstrutjot=\dimen183
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count420
+\c@tracingmulticols=\count419
 \mult@box=\box66
 \multicol@leftmargin=\dimen184
-\c@unbalance=\count421
-\c@collectmore=\count422
-\doublecol@number=\count423
-\multicoltolerance=\count424
-\multicolpretolerance=\count425
+\c@unbalance=\count420
+\c@collectmore=\count421
+\doublecol@number=\count422
+\multicoltolerance=\count423
+\multicolpretolerance=\count424
 \full@width=\dimen185
 \page@free=\dimen186
 \premulticols=\dimen187
 \postmulticols=\dimen188
-\multicolsep=\skip123
-\multicolbaselineskip=\skip124
+\multicolsep=\skip122
+\multicolbaselineskip=\skip123
 \partial@page=\box67
 \last@line=\box68
 \mc@boxedresult=\box69
@@ -742,15 +738,15 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box107
 \@tempa=\box108
 \@tempa=\box109
-\c@minrows=\count426
-\c@columnbadness=\count427
-\c@finalcolumnbadness=\count428
+\c@minrows=\count425
+\c@columnbadness=\count426
+\c@finalcolumnbadness=\count427
 \last@try=\dimen190
 \multicolovershoot=\dimen191
 \multicolundershoot=\dimen192
 \mult@nat@firstbox=\box110
 \colbreak@box=\box111
-\mc@col@check@num=\count429
+\mc@col@check@num=\count428
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen193
@@ -763,12 +759,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen256
 \cmidrulekern=\dimen257
 \defaultaddspace=\dimen258
-\@cmidla=\count430
-\@cmidlb=\count431
+\@cmidla=\count429
+\@cmidlb=\count430
 \@aboverulesep=\dimen259
 \@belowrulesep=\dimen260
-\@thisruleclass=\count432
-\@lastruleclass=\count433
+\@thisruleclass=\count431
+\@lastruleclass=\count432
 \@thisrulewidth=\dimen261
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/thmbox\thmbox.sty
 Package: thmbox 2005/04/24 v2.0 fancy theorem outlining
@@ -782,7 +778,7 @@ Package: thmbox 2005/04/24 v2.0 fancy theorem outlining
 \thmbox@dim=\dimen267
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip125
+\@mathmargin=\skip124
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -797,14 +793,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count434
+\inf@bad=\count433
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count435
-\leftroot@=\count436
+\uproot@=\count434
+\leftroot@=\count435
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count437
-\DOTSCASE@=\count438
+\classnum@=\count436
+\DOTSCASE@=\count437
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -817,20 +813,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen270
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count439
+\macc@depth=\count438
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count440
+\c@MaxMatrixCols=\count439
 \dotsspace@=\muskip21
-\c@parentequation=\count441
-\dspbrk@lvl=\count442
+\c@parentequation=\count440
+\dspbrk@lvl=\count441
 \tag@help=\toks32
-\row@=\count443
-\column@=\count444
-\maxfields@=\count445
+\row@=\count442
+\column@=\count443
+\maxfields@=\count444
 \andhelp@=\toks33
 \eqnshift@=\dimen271
 \alignsep@=\dimen272
@@ -839,8 +835,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen275
 \lineht@=\dimen276
 \@envbody=\toks34
-\multlinegap=\skip126
-\multlinetaggap=\skip127
+\multlinegap=\skip125
+\multlinetaggap=\skip126
 \mathdisplay@stack=\toks35
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -854,9 +850,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count446
-\rotFPtop=\skip128
-\rotFPbot=\skip129
+\c@r@tfl@t=\count445
+\rotFPtop=\skip127
+\rotFPbot=\skip128
 \rot@float@box=\box116
 \rot@mess@toks=\toks36
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
@@ -864,8 +860,8 @@ Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count447
-\xs_countb=\count448
+\xs_counta=\count446
+\xs_countb=\count447
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
@@ -879,7 +875,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks38
 \XKV@tempa@toks=\toks39
 )
-\XKV@depth=\count449
+\XKV@depth=\count448
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
@@ -927,14 +923,14 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen288
 \w@pgf@writea=\write4
 \r@pgf@reada=\read4
-\c@pgf@counta=\count450
-\c@pgf@countb=\count451
-\c@pgf@countc=\count452
-\c@pgf@countd=\count453
+\c@pgf@counta=\count449
+\c@pgf@countb=\count450
+\c@pgf@countc=\count451
+\c@pgf@countd=\count452
 \t@pgf@toka=\toks44
 \t@pgf@tokb=\toks45
 \t@pgf@tokc=\toks46
-\pgf@sys@id@count=\count454
+\pgf@sys@id@count=\count453
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -945,21 +941,21 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count455
-\pgfsyssoftpath@bigbuffer@items=\count456
+\pgfsyssoftpath@smallbuffer@items=\count454
+\pgfsyssoftpath@bigbuffer@items=\count455
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen289
-\pgfmath@count=\count457
+\pgfmath@count=\count456
 \pgfmath@box=\box118
 \pgfmath@toks=\toks47
 \pgfmath@stack@operand=\toks48
 \pgfmath@stack@operation=\toks49
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count458
+\c@pgfmathroundto@lastzeros=\count457
 )) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen290
@@ -989,7 +985,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box119
 \pgf@hbox=\box120
 \pgf@layerbox@main=\box121
-\pgf@picture@serial@count=\count459
+\pgf@picture@serial@count=\count458
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen308
@@ -1010,8 +1006,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen313
-\pgf@sys@shading@range@num=\count460
-\pgf@shadingcount=\count461
+\pgf@sys@shading@range@num=\count459
+\pgf@shadingcount=\count460
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
@@ -1046,7 +1042,7 @@ Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count462
+\pgf@plot@mark@count=\count461
 \pgfplotmarksize=\dimen318
 )
 \tikz@lastx=\dimen319
@@ -1061,35 +1057,35 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box125
 \tikz@tempbox=\box126
 \tikz@tempbox@bg=\box127
-\tikztreelevel=\count463
-\tikznumberofchildren=\count464
-\tikznumberofcurrentchild=\count465
-\tikz@fig@count=\count466
+\tikztreelevel=\count462
+\tikznumberofchildren=\count463
+\tikznumberofcurrentchild=\count464
+\tikz@fig@count=\count465
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count467
-\pgfmatrixcurrentcolumn=\count468
-\pgf@matrix@numberofcolumns=\count469
+\pgfmatrixcurrentrow=\count466
+\pgfmatrixcurrentcolumn=\count467
+\pgf@matrix@numberofcolumns=\count468
 )
-\tikz@expandcount=\count470
+\tikz@expandcount=\count469
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count471
-\calc@Bcount=\count472
+\calc@Acount=\count470
+\calc@Bcount=\count471
 \calc@Adimen=\dimen327
 \calc@Bdimen=\dimen328
-\calc@Askip=\skip130
-\calc@Bskip=\skip131
+\calc@Askip=\skip129
+\calc@Bskip=\skip130
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count473
-\calc@Cskip=\skip132
+\calc@Ccount=\count472
+\calc@Cskip=\skip131
 )
-\c@@todonotes@numberoftodonotes=\count474
+\c@@todonotes@numberoftodonotes=\count473
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
@@ -1109,11 +1105,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count475
+\c@section@level=\count474
 )
 \@linkdim=\dimen329
-\Hy@linkcounter=\count476
-\Hy@pagecounter=\count477
+\Hy@linkcounter=\count475
+\Hy@pagecounter=\count476
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -1121,7 +1117,7 @@ Now handling font encoding PD1 ...
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count478
+\Hy@SavedSpaceFactor=\count477
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -1137,7 +1133,7 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count479
+\c@Hy@tempcnt=\count478
 LaTeX Info: Redefining \url on input line 4786.
 \XeTeXLinkMargin=\dimen330
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -1145,7 +1141,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count480
+\Fld@menulength=\count479
 \Field@Width=\dimen331
 \Fld@charsize=\dimen332
 Package hyperref Info: Hyper figures OFF on input line 6065.
@@ -1159,9 +1155,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count481
-\c@Item=\count482
-\c@Hfootnote=\count483
+\Hy@abspage=\count480
+\c@Item=\count481
+\c@Hfootnote=\count482
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -1170,8 +1166,8 @@ File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count484
-\c@bookmark@seq@number=\count485
+\Fld@listcount=\count483
+\c@bookmark@seq@number=\count484
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -1179,24 +1175,24 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
-\Hy@SectionHShift=\skip133
+\Hy@SectionHShift=\skip132
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count486
+\lst@mode=\count485
 \lst@gtempboxa=\box128
 \lst@token=\toks52
-\lst@length=\count487
+\lst@length=\count486
 \lst@currlwidth=\dimen333
-\lst@column=\count488
-\lst@pos=\count489
+\lst@column=\count487
+\lst@pos=\count488
 \lst@lostspace=\dimen334
 \lst@width=\dimen335
-\lst@newlines=\count490
-\lst@lineno=\count491
+\lst@newlines=\count489
+\lst@lineno=\count490
 \lst@maxwidth=\dimen336
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count492
-\lst@skipnumbers=\count493
+\c@lstnumber=\count491
+\lst@skipnumbers=\count492
 \lst@framebox=\box129
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
@@ -1209,54 +1205,54 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-Class scrreprt Info: loading recommended package `bookmark'.
-(scrreprt)           Using `bookmark' together with `hyperref' is recommended,
-(scrreprt)           because of handling of possible bookmark level gaps.
-(scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
-(scrreprt)           `bookmarkpackage=false' before \begin{document} and
-(scrreprt)           you can avoid this message adding:
-(scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 24.
+Class scrartcl Info: loading recommended package `bookmark'.
+(scrartcl)           Using `bookmark' together with `hyperref' is recommended,
+(scrartcl)           because of handling of possible bookmark level gaps.
+(scrartcl)           You can avoid loading `bookmark' with KOMA-Script option
+(scrartcl)           `bookmarkpackage=false' before \begin{document} and
+(scrartcl)           you can avoid this message adding:
+(scrartcl)             \usepackage{bookmark}
+(scrartcl)           before \begin{document} on input line 6.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count494
+\BKM@id=\count493
 ))
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 6.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (main.aux)
-\openout1 = `main.aux'.
+) (literaturliste.aux)
+\openout1 = `literaturliste.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen337
 \MT@vwid@rightmargin=\dimen338
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
-Package microtype Info: Applying patch `footnote' on input line 24.
-Package microtype Info: Applying patch `verbatim' on input line 24.
-LaTeX Info: Redefining \microtypesetup on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 6.
+Package microtype Info: Applying patch `item' on input line 6.
+Package microtype Info: Applying patch `toc' on input line 6.
+Package microtype Info: Applying patch `eqnum' on input line 6.
+Package microtype Info: Applying patch `footnote' on input line 6.
+Package microtype Info: Applying patch `verbatim' on input line 6.
+LaTeX Info: Redefining \microtypesetup on input line 6.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1288,13 +1284,13 @@ File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
+\openout3 = `literaturliste.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
+Package biblatex Info: ... file 'literaturliste.bbl' found.
+ (literaturliste.bbl)
+Package biblatex Info: Reference section=0 on input line 6.
+Package biblatex Info: Reference segment=0 on input line 6.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1334,16 +1330,16 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count495
+\scratchcounter=\count494
 \scratchdimen=\dimen339
 \scratchbox=\box130
-\nofMPsegments=\count496
-\nofMParguments=\count497
+\nofMPsegments=\count495
+\nofMParguments=\count496
 \everyMPshowfont=\toks53
-\MPscratchCnt=\count498
+\MPscratchCnt=\count497
 \MPscratchDim=\dimen340
-\MPnumerator=\count499
-\makeMPintoPDFobject=\count500
+\MPnumerator=\count498
+\makeMPintoPDFobject=\count499
 \everyMPtoPDFconversion=\toks54
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1351,356 +1347,79 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
-\c@lstlisting=\count501
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 24.
-
-[1
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
- []\T1/ptm/m/n/17.28 (+20) Seminararbeit 
- []
-
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 38.
-(C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+Package hyperref Info: Link coloring OFF on input line 6.
+\c@lstlisting=\count500
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 8.
+ (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 38.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.03998pt on input line 8.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 13.24796pt on input line 17.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 15.89755pt on input line 38.
-
-Underfull \hbox (badness 2376) in paragraph at lines 38--38
- []\T1/phv/b/n/17.28 (+20) Wirtschaftsinformatik und Nach-hal-tig-keit: 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
- []\T1/ptm/m/n/17.28 (+20) vorgelegt von 
- []
-
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 40.
-(C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+(Font)              scaled to size 13.24796pt on input line 17.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 17.
+ (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 40.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 17.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 40.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 17.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 40.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 17.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 40.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 17.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
  (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Underfull \hbox (badness 1442) in paragraph at lines 46--46
- []\T1/ptm/m/n/17.28 (+20) wirtschaftslehre| 
- []
+) [1
 
-
-Underfull \hbox (badness 3386) in paragraph at lines 46--46
- []\T1/ptm/m/n/17.28 (+20) informatik| 
- []
-
-
-Overfull \hbox (24.0pt too wide) in paragraph at lines 40--47
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
- []\T1/ptm/m/n/17.28 (+20) MIN-Fakultät 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
- []\T1/ptm/m/n/17.28 (+20) Fachbereich Wirt-schafts-in-for-ma-tik 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
- []\T1/ptm/m/n/17.28 (+20) eingereicht am 7. No-vem-ber 2025 
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 49--50
- []\T1/ptm/m/n/17.28 (+20) Betreuer: Prof. Dr. Mar-kus Nütt-gens 
- []
-
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 58.
-(C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `pcr' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [2
-
-
-{C:/Users/Liza/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[3
-
-]
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-Package tocbasic Info: character protrusion at toc deactivated on input line 75.
-(main.toc
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 2.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-)
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
- [4
-
-]
-chapter 1.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[5
-
-]
-chapter 2.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.24796pt on input line 100.
-[6
-
-]
-chapter 3.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[7
-
-]
-chapter 4.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[8
-
-]
-chapter 5.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[9
-
-]
-chapter 6.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[10
-
-]
-chapter without number
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Overfull \hbox (0.18152pt too wide) in paragraph at lines 150--150
-[]\T1/ptm/m/n/12 (+10) David M. Goldschlag, Michael G. Reed und Paul F. Syverson.  \T1/ptm/m/it/12 (+10) Onion routing for 
- []
-
-
-Overfull \hbox (0.1434pt too wide) in paragraph at lines 150--150
-[]\T1/ptm/m/n/12 (+16) Dominik Herr-mann u.a.  \T1/ptm/m/it/12 (+16) A Privacy-Preserving Plat-form for User-Centric Quan- 
- []
-
-
-Overfull \hbox (0.14938pt too wide) in paragraph at lines 150--150
-\T1/ptm/m/it/12 (+12) Con-fe-rence on Availa-bi-li-ty, Re-lia-bi-li-ty and Se-cu-ri-ty (ARES'09)\T1/ptm/m/n/12 (+12) . IE-EE. Fu-kuoa-ka, 
- []
-
-
-Overfull \hbox (0.15834pt too wide) in paragraph at lines 150--150
-[]\T1/ptm/m/n/12 (+5) Constanze Kurz und Frank Rie-ger.  \T1/ptm/m/it/12 (+5) Cha-os Com-pu-ter Club ver-öf-fent-licht Stel-lung- 
- []
-
-
-Overfull \hbox (0.16563pt too wide) in paragraph at lines 150--150
-\T1/ptm/m/it/12 (+15) nah-me zur Vor-rats-da-ten-spei-che-rung\T1/ptm/m/n/12 (+15) . Ju-li 2009. \T1/ptm/m/sc/12 (+15) url\T1/ptm/m/n/12 (+15) : []$http : / / www . ccc . de / updates / 
- []
-
-
-Overfull \hbox (0.16194pt too wide) in paragraph at lines 150--150
-[]\T1/ptm/m/n/12 (+1) Heise Security News.  \T1/ptm/m/it/12 (+1) US-Professor wirft Sony Mitschuld am PSN-Hack vor\T1/ptm/m/n/12 (+1) . Mai 
- []
-
-[11
-
-] [12]
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[13
-
-] [14] [15]
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-(main.tdo)
-\tf@tdo=\write6
-\openout6 = `main.tdo'.
-
- [16
-
-] (main.aux)
+{C:/Users/Liza/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (literaturliste.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
+Package logreq Info: Writing requests to 'literaturliste.run.xml'.
+\openout1 = `literaturliste.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41851 strings out of 474486
- 800131 string characters out of 5744227
- 1938542 words of memory out of 5000000
- 63202 multiletter control sequences out of 15000+600000
- 618215 words of font info for 250 fonts, out of 8000000 for 9000
+ 41219 strings out of 474486
+ 788657 string characters out of 5744227
+ 1932542 words of memory out of 5000000
+ 62781 multiletter control sequences out of 15000+600000
+ 593698 words of font info for 129 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,13n,109p,11317b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (16 pages, 121259 bytes).
+ 108i,5n,109p,11327b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on literaturliste.pdf (1 page, 43985 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 65653 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 38 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 40461 words of extra memory for PDF output out of 42996 (max. 10000000)
 
