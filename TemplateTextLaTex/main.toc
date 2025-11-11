@@ -1,16 +1,25 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {chapter}{\numberline {1}Einleitung in das Thema}{5}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Grundlagen}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Transportwirtschaft als Teil der Logistik}{6}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Definition Wirtschaftsinformatik und Nachhaltigkeit}{6}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Haputteil}{7}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Herausforderungen im Transportsektor}{7}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Digitale Ansatzpunkte für Nachhaltigkeit}{7}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Anwendungsszenarien}{8}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Beschreibung}{8}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Bewertung}{8}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Evaluation}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Schlussbemerkungen}{10}{chapter.6}%
-\contentsline {chapter}{\nonumberline Literatur}{11}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Einleitung in das Thema}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation und Problemstellung}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Grundlagen}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Transportwirtschaft als Teil der Logistik}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Herausfordeurngen in der Transportwirtschaft}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Nachhaltigkeit in der Transportwirtschaft}{2}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Definition Wirtschaftsinformatik und Nachhaltigkeit}{2}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Haputteil - IT Lösungen für nachhaltige Transportwirtschaft}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Route-Optmierung und Transportation Management Systems(TMS)}{3}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Funktionsweise und Mehrwert}{3}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Beispiele und Emissionsreduktion}{3}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Digitale Ansatzpunkte für Nachhaltigkeit}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Intelligente Transportsysteme (ITS) und IoT}{3}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Deigtalisierung und Elektromobilität}{3}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Blockchain für Lieferkettentransparanz}{3}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Künstliche Intelligenz und Big Data Analytics}{3}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Anwendungsszenarien / Praxisbeispiel}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Unternehmensbeispiel mit Anwendung?}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Bewertung}{4}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Evaluation}{5}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Schlussbemerkungen}{6}{chapter.6}%
+\contentsline {chapter}{\nonumberline Literatur}{7}{chapter*.5}%
 \def \@chapapp {\appendixname }
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

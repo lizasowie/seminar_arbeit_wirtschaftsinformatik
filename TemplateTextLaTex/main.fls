@@ -1,6 +1,6 @@
-PWD c:\Users\Liza\Downloads\template_slides_theses (1)\template_slides_theses\TemplateTextLaTex
+PWD i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex
 INPUT C:\Users\Liza\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Liza\Downloads\template_slides_theses (1)\template_slides_theses\TemplateTextLaTex\main.tex
+INPUT i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.tex
 OUTPUT main.log
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrreprt.cls
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrreprt.cls
@@ -518,8 +518,11 @@ INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
+INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
