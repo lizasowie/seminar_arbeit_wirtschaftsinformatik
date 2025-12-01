@@ -1,6 +1,6 @@
-PWD c:\Users\Liza\Downloads\template_slides_theses (1)\template_slides_theses\TemplateTextLaTex
+PWD i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex
 INPUT C:\Users\Liza\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Liza\Downloads\template_slides_theses (1)\template_slides_theses\TemplateTextLaTex\literaturliste.tex
+INPUT i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\literaturliste.tex
 OUTPUT literaturliste.log
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls

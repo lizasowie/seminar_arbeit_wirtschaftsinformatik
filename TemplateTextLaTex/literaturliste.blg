@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'literaturliste.blg'
 [69] biber-MSWIN64:340> INFO - === 
-[97] Biber.pm:419> INFO - Reading 'literaturliste.bcf'
-[164] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[171] Biber.pm:4419> INFO - Processing section 0
-[179] Biber.pm:4610> INFO - Looking for bibtex file 'c:\Users\Liza\Downloads\template_slides_theses (1)\template_slides_theses\TemplateTextLaTex\literaturliste.bib' for section 0
-[237] bibtex.pm:1713> INFO - LaTeX decoding ...
-[252] bibtex.pm:1519> INFO - Found BibTeX data source 'c:\Users\Liza\Downloads\template_slides_theses (1)\template_slides_theses\TemplateTextLaTex\literaturliste.bib'
-[283] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[283] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[283] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[283] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[288] bbl.pm:660> INFO - Writing 'literaturliste.bbl' with encoding 'UTF-8'
-[289] bbl.pm:763> INFO - Output to literaturliste.bbl
+[98] Biber.pm:419> INFO - Reading 'literaturliste.bcf'
+[163] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[170] Biber.pm:4419> INFO - Processing section 0
+[178] Biber.pm:4610> INFO - Looking for bibtex file 'i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\literaturliste.bib' for section 0
+[223] bibtex.pm:1713> INFO - LaTeX decoding ...
+[228] bibtex.pm:1519> INFO - Found BibTeX data source 'i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\literaturliste.bib'
+[259] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[259] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[259] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[259] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[263] bbl.pm:660> INFO - Writing 'literaturliste.bbl' with encoding 'UTF-8'
+[264] bbl.pm:763> INFO - Output to literaturliste.bbl

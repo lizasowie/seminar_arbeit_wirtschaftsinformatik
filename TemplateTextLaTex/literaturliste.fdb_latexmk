@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber literaturliste"] 1762509620.56767 "literaturliste.bcf" "literaturliste.bbl" "literaturliste" 1762509630.94241 0
-  "c:\Users\Liza\Downloads\template_slides_theses (1)\template_slides_theses\TemplateTextLaTex\literaturliste.bib" 1762509618 1109 698ff6ac1de719cec18010c78d684837 ""
-  "literaturliste.bcf" 1762509630 107952 967f4f8f874bb77c1cb036f59ca3230a "pdflatex"
+["biber literaturliste"] 1764618163.01141 "literaturliste.bcf" "literaturliste.bbl" "literaturliste" 1764618165.96385 0
+  "i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\literaturliste.bib" 1762865576 1130 698ff6ac1de719cec18010c78d684837 ""
+  "literaturliste.bcf" 1764618165 107959 327e126a1d42908d8cfe3e2f1546d86a "pdflatex"
   (generated)
   "literaturliste.bbl"
   "literaturliste.blg"
   (rewritten before read)
-["pdflatex"] 1762509629.34704 "c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/literaturliste.tex" "literaturliste.pdf" "literaturliste" 1762509630.94293 0
+["pdflatex"] 1764618164.32367 "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/literaturliste.tex" "literaturliste.pdf" "literaturliste" 1764618165.96432 0
   "C:/Users/Liza/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762253494 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Liza/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762252060 24224574 ed321c0755d244c2b7e1659fca5c4bc4 ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -241,14 +241,14 @@
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/literaturliste.tex" 1762509628 663 dcc5c900d13a945205945e1f7c114579 ""
-  "literaturliste.aux" 1762509630 611 961c9564bddf2416acc10e9769741e6e "pdflatex"
-  "literaturliste.bbl" 1762509621 4681 0bba98949909f538736e29e069c5b9a8 "biber literaturliste"
-  "literaturliste.fls" 1762509630 42105 16613b2d0afa4c4e5f70f2373fbd6b2c ""
-  "literaturliste.run.xml" 1762509630 2507 97ad57105b67094c081f7c7287e8d46e "pdflatex"
-  "literaturliste.tex" 1762509628 663 dcc5c900d13a945205945e1f7c114579 ""
-  "stylesvs.tex" 1762253685 28955 9e92bb5e4fb1eaa1554546b8b8278941 ""
-  "tabu.sty" 1762252804 116392 98cfe11e2c593abcfc7d855738ed65af ""
+  "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/literaturliste.tex" 1762865576 682 dcc5c900d13a945205945e1f7c114579 ""
+  "literaturliste.aux" 1764618165 611 961c9564bddf2416acc10e9769741e6e "pdflatex"
+  "literaturliste.bbl" 1764618164 4681 0bba98949909f538736e29e069c5b9a8 "biber literaturliste"
+  "literaturliste.fls" 1764618165 42119 889165acf3ec373c75877703f6077e9f ""
+  "literaturliste.run.xml" 1764618165 2514 a504fb7b563751c905a8ee1f9542d632 "pdflatex"
+  "literaturliste.tex" 1762865576 682 dcc5c900d13a945205945e1f7c114579 ""
+  "stylesvs.tex" 1762865576 28955 9e92bb5e4fb1eaa1554546b8b8278941 ""
+  "tabu.sty" 1762865576 118994 98cfe11e2c593abcfc7d855738ed65af ""
   (generated)
   "literaturliste.aux"
   "literaturliste.bcf"

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  7 NOV 2025 11:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  1 DEC 2025 20:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/literaturliste.tex"
-(c:/Users/Liza/Downloads/template_slides_theses (1)/template_slides_theses/TemplateTextLaTex/literaturliste.tex
+**i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/literaturliste.tex
+(i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/literaturliste.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
@@ -1410,14 +1410,14 @@ Package logreq Info: Writing requests to 'literaturliste.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  41219 strings out of 474486
- 788657 string characters out of 5744227
+ 788749 string characters out of 5744227
  1932542 words of memory out of 5000000
  62781 multiletter control sequences out of 15000+600000
  593698 words of font info for 129 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,5n,109p,11327b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,5n,109p,11332b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on literaturliste.pdf (1 page, 43985 bytes).
+Output written on literaturliste.pdf (1 page, 43855 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
