@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  11 NOV 2025 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  3 DEC 2025 15:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1448,7 +1448,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
- []\T1/ptm/m/n/17.28 (+20) eingereicht am 11. No-vem-ber 2025 
+ []\T1/ptm/m/n/17.28 (+20) eingereicht am 3. De-zem-ber 2025 
  []
 
 
@@ -1479,20 +1479,6 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[1
-
-]
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
 Package tocbasic Info: character protrusion at toc deactivated on input line 77.
 (main.toc
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
@@ -1507,7 +1493,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [2
+ [1
 
 ]
 chapter 1.
@@ -1526,38 +1512,25 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 13.24796pt on input line 85.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.24796pt on input line 85.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 87.
-
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 87.
+(C:\Users\Liza\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.90 \chapter
-             {Grundlagen} [1
+l.101 Z
+       uletzt folgt eine Zusammenfassung der Kernergebnisse und eine Auswert... [1
 
 
 
 ]
-chapter 2.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 \chapter
-              {Haputteil - IT LÃ¶sungen fÃ¼r nachhaltige Transportwirtschaft} [2
-
-]
-chapter 3.
+l.104 \chapter
+              {Grundlagen} [2]
+chapter 2.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1572,7 +1545,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 [3
 
 ]
-chapter 4.
+chapter 3.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1587,7 +1560,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 [4
 
 ]
-chapter 5.
+chapter 4.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1602,7 +1575,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 [5
 
 ]
-chapter 6.
+chapter 5.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1615,6 +1588,21 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              that will remove this deprecated code.
 
 [6
+
+]
+chapter 6.
+
+Class scrreprt Warning: Redefinition of \@makechapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makechapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makechapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+[7
 
 ]
 chapter without number
@@ -1630,38 +1618,18 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              that will remove this deprecated code.
 
 
-Overfull \hbox (0.18152pt too wide) in paragraph at lines 169--169
-[]\T1/ptm/m/n/12 (+10) David M. Goldschlag, Michael G. Reed und Paul F. Syverson.  \T1/ptm/m/it/12 (+10) Onion routing for 
+Overfull \hbox (0.10307pt too wide) in paragraph at lines 176--176
+\T1/ptm/m/n/12 (+14) tiert durch RIOH, un-ter-stützt durch GIZ [2]; Lay-out: Bei-jing Zhuo-chuang De-sign 
  []
 
 
-Overfull \hbox (0.1434pt too wide) in paragraph at lines 169--169
-[]\T1/ptm/m/n/12 (+16) Dominik Herr-mann u.a.  \T1/ptm/m/it/12 (+16) A Privacy-Preserving Plat-form for User-Centric Quan- 
+Overfull \hbox (0.21045pt too wide) in paragraph at lines 176--176
+\T1/ptm/m/n/12 (+19) Re-port [4]; Co-Vorsitzende: Mar-tin Lunds-tedt und Ca-ro-li-na Tohá [5]; Bei-trag zur 
  []
 
+[8
 
-Overfull \hbox (0.14938pt too wide) in paragraph at lines 169--169
-\T1/ptm/m/it/12 (+12) Con-fe-rence on Availa-bi-li-ty, Re-lia-bi-li-ty and Se-cu-ri-ty (ARES'09)\T1/ptm/m/n/12 (+12) . IE-EE. Fu-kuoa-ka, 
- []
-
-
-Overfull \hbox (0.15834pt too wide) in paragraph at lines 169--169
-[]\T1/ptm/m/n/12 (+5) Constanze Kurz und Frank Rie-ger.  \T1/ptm/m/it/12 (+5) Cha-os Com-pu-ter Club ver-öf-fent-licht Stel-lung- 
- []
-
-
-Overfull \hbox (0.16563pt too wide) in paragraph at lines 169--169
-\T1/ptm/m/it/12 (+15) nah-me zur Vor-rats-da-ten-spei-che-rung\T1/ptm/m/n/12 (+15) . Ju-li 2009. \T1/ptm/m/sc/12 (+15) url\T1/ptm/m/n/12 (+15) : []$http : / / www . ccc . de / updates / 
- []
-
-
-Overfull \hbox (0.16194pt too wide) in paragraph at lines 169--169
-[]\T1/ptm/m/n/12 (+1) Heise Security News.  \T1/ptm/m/it/12 (+1) US-Professor wirft Sony Mitschuld am PSN-Hack vor\T1/ptm/m/n/12 (+1) . Mai 
- []
-
-[7
-
-] [8]
+] [9]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1673,9 +1641,9 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[9
+[10
 
-] [10] [11]
+] [11] [12] [13]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1691,7 +1659,7 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 \tf@tdo=\write6
 \openout6 = `main.tdo'.
 
- [12
+ [14
 
 ] (main.aux)
  ***********
@@ -1703,17 +1671,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41954 strings out of 474486
- 802279 string characters out of 5744227
- 1940542 words of memory out of 5000000
- 63297 multiletter control sequences out of 15000+600000
- 620710 words of font info for 249 fonts, out of 8000000 for 9000
+ 41864 strings out of 474486
+ 799890 string characters out of 5744227
+ 1937542 words of memory out of 5000000
+ 63219 multiletter control sequences out of 15000+600000
+ 616755 words of font info for 247 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,13n,109p,11322b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (16 pages, 129929 bytes).
+<C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (17 pages, 120676 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
- 69821 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 65725 words of extra memory for PDF output out of 74296 (max. 10000000)
 

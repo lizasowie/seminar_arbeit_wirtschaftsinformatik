@@ -2361,27 +2361,22 @@
     <bcf:datasource type="file" datatype="bibtex">i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Beut2009</bcf:citekey>
-    <bcf:citekey order="1" intorder="2">ScWe2007</bcf:citekey>
-    <bcf:citekey order="1" intorder="3">Pfit90</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">Kili2006</bcf:citekey>
-    <bcf:citekey order="2" intorder="2">Lamp1981</bcf:citekey>
-    <bcf:citekey order="2" intorder="3">ThKZ2002</bcf:citekey>
-    <bcf:citekey order="2" intorder="4">Chau81</bcf:citekey>
-    <bcf:citekey order="2" intorder="5">Chau88</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">InBr2009</bcf:citekey>
-    <bcf:citekey order="3" intorder="2">WWPK2010</bcf:citekey>
-    <bcf:citekey order="3" intorder="3">HSFN2009</bcf:citekey>
-    <bcf:citekey order="3" intorder="4">GoRS99</bcf:citekey>
-    <bcf:citekey order="3" intorder="5">WaMS2008</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">CCC2009</bcf:citekey>
-    <bcf:citekey order="4" intorder="2">Heise2011</bcf:citekey>
-    <bcf:citekey order="4" intorder="3">textwahrnehmung</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Chau81</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">Chau88</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">GoRS99</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">Pfit90</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">WaMS2008</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">AnalysisTransportSDGs</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">RIOHGIZ2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Hausladen2020</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">HLAG2016</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Fareed2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">UNCTAD2018</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">UN2021</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">UBA2024</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">AnalysisTransportSDGs</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">RIOHGIZ2022</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Hausladen2020</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">HLAG2016</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Fareed2024</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">UNCTAD2018</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">UN2021</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">UBA2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">

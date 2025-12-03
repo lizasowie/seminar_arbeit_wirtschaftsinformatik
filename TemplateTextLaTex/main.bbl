@@ -19,596 +19,278 @@
 
 \refsection{0}
   \datalist[entry]{anyt/global//global/global}
-    \entry{Beut2009}{book}{}
-      \name{author}{1}{}{%
-        {{hash=4c68f34bf26b1e5ae34a9690300a5954}{%
-           family={Beutelspacher},
+    \entry{UBA2024}{report}{}
+      \name{author}{4}{}{%
+        {{hash=bd1445e7df19f439b8fc3b9184294f9c}{%
+           family={Biemann},
            familyi={B\bibinitperiod},
-           given={Albrecht},
-           giveni={A\bibinitperiod}}}%
+           given={Kirsten},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9573ff3970aad0eec8ea62669cdb6953}{%
+           family={Knörr},
+           familyi={K\bibinitperiod},
+           given={Wolfram},
+           giveni={W\bibinitperiod}}}%
+        {{hash=71271b19a459f46a01cfebcd45967df9}{%
+           family={Dobers},
+           familyi={D\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=063ad0fd1872dbbaf8abe14261410c69}{%
+           family={Jarmer},
+           familyi={J\bibinitperiod},
+           given={Jan-Philipp},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=41908784304b077913119d447f60e052}{%
+           family={{Richter, Nadja}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Umweltbundesamt (UBA)}%
+      }
+      \list{location}{1}{%
+        {Dessau-Roßlau}%
+      }
+      \strng{namehash}{417de07ad3c6e6944b74877b1b11202d}
+      \strng{fullhash}{243dbe9e57d929de3d761ada053d0aaf}
+      \strng{bibnamehash}{417de07ad3c6e6944b74877b1b11202d}
+      \strng{authorbibnamehash}{417de07ad3c6e6944b74877b1b11202d}
+      \strng{authornamehash}{417de07ad3c6e6944b74877b1b11202d}
+      \strng{authorfullhash}{243dbe9e57d929de3d761ada053d0aaf}
+      \strng{editorbibnamehash}{41908784304b077913119d447f60e052}
+      \strng{editornamehash}{41908784304b077913119d447f60e052}
+      \strng{editorfullhash}{41908784304b077913119d447f60e052}
+      \field{labelalpha}{Bie+24}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2363-832X}
+      \field{note}{Abschlussdatum März 2024 [15]. Autoren von ifeu-Institut und Fraunhofer IML [15].}
+      \field{title}{{Treibhausgasemissionen im Transportsektor: Leitfaden zur ISO 14083: Anwendung und Beispiele}}
+      \field{type}{Leitfaden}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb www.umweltbundesamt.de/publikationen
+      \endverb
+      \verb{url}
+      \verb www.umweltbundesamt.de/publikationen
+      \endverb
+    \endentry
+    \entry{Fareed2024}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3e180d83e95f7c2155aed342cd6e2b1b}{%
+           family={Fareed},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f4ca0a1d43bba4c9054cbbc57c128b3}
+      \strng{fullhash}{2f4ca0a1d43bba4c9054cbbc57c128b3}
+      \strng{bibnamehash}{2f4ca0a1d43bba4c9054cbbc57c128b3}
+      \strng{authorbibnamehash}{2f4ca0a1d43bba4c9054cbbc57c128b3}
+      \strng{authornamehash}{2f4ca0a1d43bba4c9054cbbc57c128b3}
+      \strng{authorfullhash}{2f4ca0a1d43bba4c9054cbbc57c128b3}
+      \field{labelalpha}{Fa24}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Sustainable Futures}}
+      \field{note}{Systematische Literaturübersicht (SLR); Artikelnummer 100278 [7]}
+      \field{title}{{Role and applications of advanced digital technologies in achieving sustainability in multimodal logistics operations}}
+      \field{volume}{8}
+      \field{year}{2024}
+    \endentry
+    \entry{Hausladen2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=859a30527aa2262e85979d1fb7dbdf9f}{%
+           family={Hausladen},
+           familyi={H\bibinitperiod},
+           given={Iris},
+           giveni={I\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {Vieweg + Teubner}%
+        {Springer Fachmedien Wiesbaden GmbH}%
       }
-      \strng{namehash}{4c68f34bf26b1e5ae34a9690300a5954}
-      \strng{fullhash}{4c68f34bf26b1e5ae34a9690300a5954}
-      \strng{bibnamehash}{4c68f34bf26b1e5ae34a9690300a5954}
-      \strng{authorbibnamehash}{4c68f34bf26b1e5ae34a9690300a5954}
-      \strng{authornamehash}{4c68f34bf26b1e5ae34a9690300a5954}
-      \strng{authorfullhash}{4c68f34bf26b1e5ae34a9690300a5954}
-      \field{labelalpha}{Beu09}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{9. akt. Auflage}
-      \field{title}{{Kryptologie: Eine Einführung in die Wissenschaft vom Verschlüsseln, Verbergen und Verheimlichen}}
-      \field{year}{2009}
-    \endentry
-    \entry{Chau81}{article}{}
-      \name{author}{1}{}{%
-        {{hash=615e97951d5e1c224ddda5bded8c9081}{%
-           family={Chaum},
-           familyi={C\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{fullhash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{bibnamehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{authorbibnamehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{authornamehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{authorfullhash}{615e97951d5e1c224ddda5bded8c9081}
-      \field{extraname}{1}
-      \field{labelalpha}{Cha81}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Communications of the ACM}
-      \field{number}{2}
-      \field{title}{Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms}
-      \field{volume}{24}
-      \field{year}{1981}
-      \field{pages}{84\bibrangedash 88}
-      \range{pages}{5}
-    \endentry
-    \entry{Chau88}{article}{}
-      \name{author}{1}{}{%
-        {{hash=615e97951d5e1c224ddda5bded8c9081}{%
-           family={Chaum},
-           familyi={C\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{fullhash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{bibnamehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{authorbibnamehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{authornamehash}{615e97951d5e1c224ddda5bded8c9081}
-      \strng{authorfullhash}{615e97951d5e1c224ddda5bded8c9081}
-      \field{extraname}{2}
-      \field{labelalpha}{Cha88}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Cryptology}
-      \field{number}{1}
-      \field{title}{The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability}
-      \field{volume}{1}
-      \field{year}{1988}
-      \field{pages}{65\bibrangedash 75}
-      \range{pages}{11}
-    \endentry
-    \entry{GoRS99}{article}{}
-      \name{author}{3}{}{%
-        {{hash=a20be4c7090125bd8ea533918ec41853}{%
-           family={Goldschlag},
-           familyi={G\bibinitperiod},
-           given={David\bibnamedelima M.},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=75be9582cc6fd8e2cf4317d25504703a}{%
-           family={Reed},
-           familyi={R\bibinitperiod},
-           given={Michael\bibnamedelima G.},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=3f388f88bfe0be3ee8b18ec089b4a381}{%
-           family={Syverson},
-           familyi={S\bibinitperiod},
-           given={Paul\bibnamedelima F.},
-           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-      }
-      \strng{namehash}{f1e375a98093b44f34dc94f0c86c2005}
-      \strng{fullhash}{f1e375a98093b44f34dc94f0c86c2005}
-      \strng{bibnamehash}{f1e375a98093b44f34dc94f0c86c2005}
-      \strng{authorbibnamehash}{f1e375a98093b44f34dc94f0c86c2005}
-      \strng{authornamehash}{f1e375a98093b44f34dc94f0c86c2005}
-      \strng{authorfullhash}{f1e375a98093b44f34dc94f0c86c2005}
-      \field{labelalpha}{GRS99}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Communications of the ACM}
-      \field{number}{2}
-      \field{title}{Onion routing for anonymous and private Internet connections}
-      \field{volume}{42}
-      \field{year}{1999}
-      \field{pages}{39\bibrangedash 41}
-      \range{pages}{3}
-    \endentry
-    \entry{HSFN2009}{inproceedings}{}
-      \name{author}{5}{}{%
-        {{hash=137baebd130a92f3f7bddf0b0c75c297}{%
-           family={Herrmann},
-           familyi={H\bibinitperiod},
-           given={Dominik},
-           giveni={D\bibinitperiod}}}%
-        {{hash=fc61a966bf77af00d43ec3c56cbd4f11}{%
-           family={Scheuer},
-           familyi={S\bibinitperiod},
-           given={Florian},
-           giveni={F\bibinitperiod}}}%
-        {{hash=b2ab479aa3056c6fd4a34c96b3df11f7}{%
-           family={Feustel},
-           familyi={F\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod}}}%
-        {{hash=b0e63f1de3b26e7964a50b26fec4b21d}{%
-           family={Nowey},
-           familyi={N\bibinitperiod},
-           given={Thomas},
-           giveni={T\bibinitperiod}}}%
-        {{hash=b2f80d7ef07c503b6deb9dbaed7672cc}{%
-           family={Federrath},
-           familyi={F\bibinitperiod},
-           given={Hannes},
-           giveni={H\bibinitperiod}}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=37814a0b989e44a1a4b943731cbe4350}{%
-           family={Fischer{-}Hübner},
-           familyi={F\bibinitperiod},
-           given={Simone},
-           giveni={S\bibinitperiod}}}%
-        {{hash=d19e342f52fb7599f1a13fea7bcfcc8e}{%
-           family={Lambrinoudakis},
-           familyi={L\bibinitperiod},
-           given={Costas},
-           giveni={C\bibinitperiod}}}%
-        {{hash=fdbac6d0d3f133bd8791e3bf7a8525ea}{%
-           family={Pernul},
-           familyi={P\bibinitperiod},
-           given={Günther},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin}%
-      }
-      \list{publisher}{1}{%
-        {Springer-Verlag}%
-      }
-      \strng{namehash}{a7069055112e9253cca0a3da39432baf}
-      \strng{fullhash}{6f71cb06245f021bebc4df80f221c09e}
-      \strng{bibnamehash}{a7069055112e9253cca0a3da39432baf}
-      \strng{authorbibnamehash}{a7069055112e9253cca0a3da39432baf}
-      \strng{authornamehash}{a7069055112e9253cca0a3da39432baf}
-      \strng{authorfullhash}{6f71cb06245f021bebc4df80f221c09e}
-      \strng{editorbibnamehash}{a44b04cd50bc1a3a73113a53369cba62}
-      \strng{editornamehash}{a44b04cd50bc1a3a73113a53369cba62}
-      \strng{editorfullhash}{a44b04cd50bc1a3a73113a53369cba62}
-      \field{labelalpha}{Her+09}
+      \strng{namehash}{859a30527aa2262e85979d1fb7dbdf9f}
+      \strng{fullhash}{859a30527aa2262e85979d1fb7dbdf9f}
+      \strng{bibnamehash}{859a30527aa2262e85979d1fb7dbdf9f}
+      \strng{authorbibnamehash}{859a30527aa2262e85979d1fb7dbdf9f}
+      \strng{authornamehash}{859a30527aa2262e85979d1fb7dbdf9f}
+      \strng{authorfullhash}{859a30527aa2262e85979d1fb7dbdf9f}
+      \field{labelalpha}{Hau20}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 6th International Conference on Trust, Privacy and Security in Digital Business}
-      \field{series}{Lecture Notes in Computer Science}
-      \field{title}{{A Privacy-Preserving Platform for User-Centric Quantitative Benchmarking}}
-      \field{volume}{5695}
-      \field{year}{2009}
-      \field{pages}{32\bibrangedash 41}
-      \range{pages}{10}
+      \field{edition}{4., aktualisierte und erweiterte Auflage}
+      \field{isbn}{978-3-658-31259-6}
+      \field{title}{{IT-gestützte Logistik: Systeme – Prozesse – Anwendungen}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/978-3-658-31260-2
+      \endverb
     \endentry
-    \entry{InBr2009}{inproceedings}{}
+    \entry{RIOHGIZ2022}{book}{}
       \name{author}{2}{}{%
-        {{hash=42e0d9efb96c84059db2b3339daadfce}{%
-           family={Innerhofer-Oberperfler},
-           familyi={I\bibinithyphendelim O\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod}}}%
-        {{hash=56c0fe35e1b3c7a838cff37ac63f0c97}{%
-           family={Breu},
-           familyi={B\bibinitperiod},
-           given={Ruth},
-           giveni={R\bibinitperiod}}}%
+        {{hash=3e7f3f2d4a5e6c5d57e3ce8e2969a535}{%
+           family={{Research Institute of Highway Ministry of Transport of the People's Republic of China (RIOH)}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=1c9941ee21b335017ba26bea89ce556e}{%
+           family={{Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH}},
+           familyi={D\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Fukuoaka, Japan}%
-      }
-      \list{organization}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{f021066429f8aea2c2e30f4f96319e48}
-      \strng{fullhash}{f021066429f8aea2c2e30f4f96319e48}
-      \strng{bibnamehash}{f021066429f8aea2c2e30f4f96319e48}
-      \strng{authorbibnamehash}{f021066429f8aea2c2e30f4f96319e48}
-      \strng{authornamehash}{f021066429f8aea2c2e30f4f96319e48}
-      \strng{authorfullhash}{f021066429f8aea2c2e30f4f96319e48}
-      \field{labelalpha}{IB09}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proc. of International Conference on Availability, Reliability and Security (ARES'09)}
-      \field{month}{3}
-      \field{title}{{An empirically derived loss taxonomy based on publicly known security incidents}}
-      \field{year}{2009}
-      \field{pages}{66\bibrangedash 73}
-      \range{pages}{8}
-    \endentry
-    \entry{Kili2006}{article}{}
-      \name{author}{1}{}{%
-        {{hash=4028cc2b66d8b838f5725267d95bc6a2}{%
-           family={Kilian},
-           familyi={K\bibinitperiod},
-           given={Detlef},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{4028cc2b66d8b838f5725267d95bc6a2}
-      \strng{fullhash}{4028cc2b66d8b838f5725267d95bc6a2}
-      \strng{bibnamehash}{4028cc2b66d8b838f5725267d95bc6a2}
-      \strng{authorbibnamehash}{4028cc2b66d8b838f5725267d95bc6a2}
-      \strng{authornamehash}{4028cc2b66d8b838f5725267d95bc6a2}
-      \strng{authorfullhash}{4028cc2b66d8b838f5725267d95bc6a2}
-      \field{labelalpha}{Kil06}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Datenschutz und Datensicherheit DuD}
-      \field{number}{10}
-      \field{title}{{Einführung in Informationssicherheitsmanagementsysteme (I) - Begriffsbestimmung und Standards}}
-      \field{volume}{30}
-      \field{year}{2006}
-      \field{pages}{651\bibrangedash 654}
-      \range{pages}{4}
-    \endentry
-    \entry{CCC2009}{online}{}
-      \name{author}{2}{}{%
-        {{hash=8eab90de45e727638930add5a52be648}{%
-           family={Kurz},
-           familyi={K\bibinitperiod},
-           given={Constanze},
-           giveni={C\bibinitperiod}}}%
-        {{hash=4005863304c6a8f4a1a47169021bda2b}{%
-           family={Rieger},
-           familyi={R\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{f5524fc04716d845cc7359709ece6daf}
-      \strng{fullhash}{f5524fc04716d845cc7359709ece6daf}
-      \strng{bibnamehash}{f5524fc04716d845cc7359709ece6daf}
-      \strng{authorbibnamehash}{f5524fc04716d845cc7359709ece6daf}
-      \strng{authornamehash}{f5524fc04716d845cc7359709ece6daf}
-      \strng{authorfullhash}{f5524fc04716d845cc7359709ece6daf}
-      \field{labelalpha}{KR09}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{7}
-      \field{title}{{Chaos Computer Club veröffentlicht Stellungnahme zur Vorratsdatenspeicherung}}
-      \field{urlday}{5}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{2009}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb http://www.ccc.de/updates/2009/vds-gutachten
-      \endverb
-      \verb{url}
-      \verb http://www.ccc.de/updates/2009/vds-gutachten
-      \endverb
-    \endentry
-    \entry{Lamp1981}{article}{}
-      \name{author}{1}{}{%
-        {{hash=5d77435450d10a850a5b58577b9a456b}{%
-           family={Lamport},
-           familyi={L\bibinitperiod},
-           given={Leslie},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
-      \field{labelalpha}{Lam81}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Communications of the ACM}
-      \field{number}{11}
-      \field{title}{{Password authentication with insecure communication}}
-      \field{volume}{24}
-      \field{year}{1981}
-      \field{pages}{770\bibrangedash 772}
-      \range{pages}{3}
-    \endentry
-    \entry{Heise2011}{online}{}
-      \name{author}{1}{}{%
-        {{hash=f15442eb1baf69230d954b60549e98d0}{%
-           family={News},
-           familyi={N\bibinitperiod},
-           given={Heise\bibnamedelima Security},
-           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{f15442eb1baf69230d954b60549e98d0}
-      \strng{fullhash}{f15442eb1baf69230d954b60549e98d0}
-      \strng{bibnamehash}{f15442eb1baf69230d954b60549e98d0}
-      \strng{authorbibnamehash}{f15442eb1baf69230d954b60549e98d0}
-      \strng{authornamehash}{f15442eb1baf69230d954b60549e98d0}
-      \strng{authorfullhash}{f15442eb1baf69230d954b60549e98d0}
-      \field{labelalpha}{New11}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{5}
-      \field{title}{{US-Professor wirft Sony Mitschuld am PSN-Hack vor}}
-      \field{urlday}{5}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{2011}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb http://www.heise.de/-1238676
-      \endverb
-      \verb{url}
-      \verb http://www.heise.de/-1238676
-      \endverb
-    \endentry
-    \entry{textwahrnehmung}{online}{}
-      \name{author}{1}{}{%
-        {{hash=1dd786f1325233c7fd4e745333020f62}{%
-           family={Online},
-           familyi={O\bibinitperiod},
-           given={Spiegel},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{1dd786f1325233c7fd4e745333020f62}
-      \strng{fullhash}{1dd786f1325233c7fd4e745333020f62}
-      \strng{bibnamehash}{1dd786f1325233c7fd4e745333020f62}
-      \strng{authorbibnamehash}{1dd786f1325233c7fd4e745333020f62}
-      \strng{authornamehash}{1dd786f1325233c7fd4e745333020f62}
-      \strng{authorfullhash}{1dd786f1325233c7fd4e745333020f62}
-      \field{labelalpha}{Onl05}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{11}
-      \field{title}{{Textwahrnehmung - Simple Sprache wirkt intelligenter}}
-      \field{urlday}{5}
-      \field{urlmonth}{12}
-      \field{urlyear}{2014}
-      \field{year}{2005}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb http://www.spiegel.de/wissenschaft/mensch/0,1518,382730,00.html
-      \endverb
-      \verb{url}
-      \verb http://www.spiegel.de/wissenschaft/mensch/0,1518,382730,00.html
-      \endverb
-    \endentry
-    \entry{Pfit90}{book}{}
-      \name{author}{1}{}{%
-        {{hash=1c6456df62fd2e1879f99532a84b0e93}{%
-           family={Pfitzmann},
-           familyi={P\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin}%
+        {Beijing, PR China}%
       }
       \list{publisher}{1}{%
-        {Springer-Verlag}%
+        {Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH}%
       }
-      \strng{namehash}{1c6456df62fd2e1879f99532a84b0e93}
-      \strng{fullhash}{1c6456df62fd2e1879f99532a84b0e93}
-      \strng{bibnamehash}{1c6456df62fd2e1879f99532a84b0e93}
-      \strng{authorbibnamehash}{1c6456df62fd2e1879f99532a84b0e93}
-      \strng{authornamehash}{1c6456df62fd2e1879f99532a84b0e93}
-      \strng{authorfullhash}{1c6456df62fd2e1879f99532a84b0e93}
-      \field{labelalpha}{Pfi90}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \strng{namehash}{fe110430bd031cefcf4e72a033f311de}
+      \strng{fullhash}{fe110430bd031cefcf4e72a033f311de}
+      \strng{bibnamehash}{fe110430bd031cefcf4e72a033f311de}
+      \strng{authorbibnamehash}{fe110430bd031cefcf4e72a033f311de}
+      \strng{authornamehash}{fe110430bd031cefcf4e72a033f311de}
+      \strng{authorfullhash}{fe110430bd031cefcf4e72a033f311de}
+      \field{labelalpha}{RD22}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{series}{{IFB }234}
-      \field{title}{Diensteintegrierende Kommunikationsnetze mit teilnehmerüberprüfbarem Datenschutz}
-      \field{year}{1990}
+      \field{note}{Implementiert durch RIOH, unterstützt durch GIZ [2]; Layout: Beijing Zhuochuang Design Co. Ltd [3]}
+      \field{title}{{Developing Smart Logistics for Sustainable Transport}}
+      \field{year}{2022}
     \endentry
-    \entry{ScWe2007}{book}{}
+    \entry{AnalysisTransportSDGs}{report}{}
       \name{author}{1}{}{%
-        {{hash=7919e220a944201d4856dfc7b41dc064}{%
-           family={Schneider},
-           familyi={S\bibinitperiod},
-           given={Uwe},
-           giveni={U\bibinitperiod}}}%
+        {{hash=8ec9a3623373124ff7eb786fbe2c65ea}{%
+           family={{Technical Working Group on Transport (TWG)}},
+           familyi={T\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Leipzig}%
+      \list{institution}{1}{%
+        {Secretary General's High-Level Advisory Group on Transport (requested)}%
       }
-      \list{publisher}{1}{%
-        {Carl-Hanser-Verlag}%
-      }
-      \strng{namehash}{7919e220a944201d4856dfc7b41dc064}
-      \strng{fullhash}{7919e220a944201d4856dfc7b41dc064}
-      \strng{bibnamehash}{7919e220a944201d4856dfc7b41dc064}
-      \strng{authorbibnamehash}{7919e220a944201d4856dfc7b41dc064}
-      \strng{authornamehash}{7919e220a944201d4856dfc7b41dc064}
-      \strng{authorfullhash}{7919e220a944201d4856dfc7b41dc064}
-      \field{labelalpha}{Sch07}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{6. Auflage}
-      \field{title}{{Taschenbuch der Informatik}}
-      \field{year}{2007}
-    \endentry
-    \entry{ThKZ2002}{article}{}
-      \name{author}{3}{}{%
-        {{hash=e34a330b20311ebe5abe0585ff2c7bde}{%
-           family={Thalheim},
-           familyi={T\bibinitperiod},
-           given={Lisa},
-           giveni={L\bibinitperiod}}}%
-        {{hash=970dd83e5267520a1f2dcf7f97bedb7d}{%
-           family={Krissler},
-           familyi={K\bibinitperiod},
-           given={Jan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=fef6f0e991be227cb5fb367599054cb6}{%
-           family={Ziegler},
-           familyi={Z\bibinitperiod},
-           given={Peter-Michael},
-           giveni={P\bibinithyphendelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{9b17f9cdc41dd1db05a43dba08a4aa94}
-      \strng{fullhash}{9b17f9cdc41dd1db05a43dba08a4aa94}
-      \strng{bibnamehash}{9b17f9cdc41dd1db05a43dba08a4aa94}
-      \strng{authorbibnamehash}{9b17f9cdc41dd1db05a43dba08a4aa94}
-      \strng{authornamehash}{9b17f9cdc41dd1db05a43dba08a4aa94}
-      \strng{authorfullhash}{9b17f9cdc41dd1db05a43dba08a4aa94}
-      \field{labelalpha}{TKZ02}
+      \strng{namehash}{8ec9a3623373124ff7eb786fbe2c65ea}
+      \strng{fullhash}{8ec9a3623373124ff7eb786fbe2c65ea}
+      \strng{bibnamehash}{8ec9a3623373124ff7eb786fbe2c65ea}
+      \strng{authorbibnamehash}{8ec9a3623373124ff7eb786fbe2c65ea}
+      \strng{authornamehash}{8ec9a3623373124ff7eb786fbe2c65ea}
+      \strng{authorfullhash}{8ec9a3623373124ff7eb786fbe2c65ea}
+      \field{labelalpha}{Tec}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{ct}
-      \field{number}{11}
-      \field{title}{{Körperkontrolle -- Biometrische Zugangssicherungen auf die Probe gestellt}}
-      \field{year}{2002}
-      \field{pages}{114\bibrangedash 123}
-      \range{pages}{10}
+      \field{note}{{Basierend auf dem Titel des Quelldokuments "8656Analysis of transport relevance of SDGs.pdf"; enthält Verweise auf das Ergebnis der Open Working Group (OWG) zu den SDGs, veröffentlicht am 19. Juli 2015 [1]}}
+      \field{title}{{Analysis of transport relevance of SDGs}}
+      \field{type}{techreport}
     \endentry
-    \entry{WWPK2010}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=87a45eb23c32f8ca8042af18015fe8c5}{%
-           family={Westermann},
-           familyi={W\bibinitperiod},
-           given={Benedikt},
-           giveni={B\bibinitperiod}}}%
-        {{hash=dd7642adac908b0a4071c6951da8bb3d}{%
-           family={Wendolsky},
-           familyi={W\bibinitperiod},
-           given={Rolf},
-           giveni={R\bibinitperiod}}}%
-        {{hash=c26c5de49bf8c9f2b5df5b8f72710557}{%
-           family={Pimenidis},
-           familyi={P\bibinitperiod},
-           given={Lexi},
-           giveni={L\bibinitperiod}}}%
-        {{hash=bf953dfe22c93dc99a64775e08381159}{%
-           family={Kesdogan},
-           familyi={K\bibinitperiod},
-           given={Dogan},
-           giveni={D\bibinitperiod}}}%
+    \entry{UNCTAD2018}{report}{}
+      \name{author}{1}{}{%
+        {{hash=34b4dc73044b57e93bf349388fd42b66}{%
+           family={{UNCTAD Secretariat}},
+           familyi={U\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=95ca293910464aa5170004d56880a4c7}{%
-           family={Sion},
-           familyi={S\bibinitperiod},
-           given={Radu},
-           giveni={R\bibinitperiod}}}%
+      \list{institution}{1}{%
+        {United Nations Conference on Trade and Development (UNCTAD)}%
       }
-      \list{location}{1}{%
-        {Canary Islands, Spain}%
-      }
-      \list{publisher}{1}{%
-        {Springer Science \& Business Media}%
-      }
-      \strng{namehash}{7448b8a13c78178273918ce7645f188f}
-      \strng{fullhash}{85e40dc1b17cb79ce7c7f5ee272ccc6e}
-      \strng{bibnamehash}{7448b8a13c78178273918ce7645f188f}
-      \strng{authorbibnamehash}{7448b8a13c78178273918ce7645f188f}
-      \strng{authornamehash}{7448b8a13c78178273918ce7645f188f}
-      \strng{authorfullhash}{85e40dc1b17cb79ce7c7f5ee272ccc6e}
-      \strng{editorbibnamehash}{95ca293910464aa5170004d56880a4c7}
-      \strng{editornamehash}{95ca293910464aa5170004d56880a4c7}
-      \strng{editorfullhash}{95ca293910464aa5170004d56880a4c7}
-      \field{labelalpha}{Wes+10}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \strng{namehash}{34b4dc73044b57e93bf349388fd42b66}
+      \strng{fullhash}{34b4dc73044b57e93bf349388fd42b66}
+      \strng{bibnamehash}{34b4dc73044b57e93bf349388fd42b66}
+      \strng{authorbibnamehash}{34b4dc73044b57e93bf349388fd42b66}
+      \strng{authornamehash}{34b4dc73044b57e93bf349388fd42b66}
+      \strng{authorfullhash}{34b4dc73044b57e93bf349388fd42b66}
+      \field{labelalpha}{UNC18}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Financial Cryptography and Data Security: 14th International Conference, FC 2010}
-      \field{month}{1}
-      \field{series}{Lecture Notes in Computer Science}
-      \field{title}{{Cryptographic Protocol Analysis of AN.ON}}
-      \field{urlday}{2}
-      \field{urlmonth}{8}
-      \field{urlyear}{2016}
-      \field{volume}{6052}
-      \field{year}{2010}
-      \field{urldateera}{ce}
-      \field{pages}{114\bibrangedash 128}
-      \range{pages}{15}
+      \field{note}{{Note by the UNCTAD Secretariat [9]; Behandelt nachhaltigen Güterverkehr [10]}}
+      \field{number}{TD/B/C.I/MEM.7/17}
+      \field{title}{{Sustainable freight transport in support of the 2030 Agenda for Sustainable Development}}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
+    \entry{HLAG2016}{report}{}
+      \name{author}{1}{}{%
+        {{hash=618414016bd83d16926b24b9567b2967}{%
+           family={{United Nations Secretary-General's High-Level Advisory Group on Sustainable Transport}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United Nations}%
+      }
+      \strng{namehash}{618414016bd83d16926b24b9567b2967}
+      \strng{fullhash}{618414016bd83d16926b24b9567b2967}
+      \strng{bibnamehash}{618414016bd83d16926b24b9567b2967}
+      \strng{authorbibnamehash}{618414016bd83d16926b24b9567b2967}
+      \strng{authornamehash}{618414016bd83d16926b24b9567b2967}
+      \strng{authorfullhash}{618414016bd83d16926b24b9567b2967}
+      \field{labelalpha}{Uni16}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{{Erster globaler Sustainable Transport Outlook Report [4]; Co-Vorsitzende: Martin Lundstedt und Carolina Tohá [5]; Beitrag zur ersten Global Sustainable Transport Conference (Ashgabat, Turkmenistan, November 2016) [6]}}
+      \field{title}{{Mobilizing Sustainable Transport for Development: Analysis and Policy Recommendations}}
+      \field{type}{techreport}
+      \field{year}{2016}
       \verb{urlraw}
-      \verb http://dx.doi.org/10.1007/978-3-642-14577-3_11
+      \verb https://sustainabledevelopment.un.org/content/documents/2375Mobilizing%20Sustainable%20Transport.pdf
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1007/978-3-642-14577-3_11
+      \verb https://sustainabledevelopment.un.org/content/documents/2375Mobilizing%20Sustainable%20Transport.pdf
       \endverb
     \endentry
-    \entry{WaMS2008}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=f27ec46ccd272a021fd78bdac92dd490}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Wei},
-           giveni={W\bibinitperiod}}}%
-        {{hash=d7126b2ae34b30b758e4bc69204496dd}{%
-           family={Motani},
-           familyi={M\bibinitperiod},
-           given={Mehul},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b748d298080bee92b681a7c1a0b97b9d}{%
-           family={Srinivasan},
-           familyi={S\bibinitperiod},
-           given={Vikram},
-           giveni={V\bibinitperiod}}}%
+    \entry{UN2021}{report}{}
+      \name{author}{1}{}{%
+        {{hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {ACM}%
+      \name{editor}{1}{}{%
+        {{hash=ead40a0f3dc5f769e437a4d55105e800}{%
+           family={{Kathryn Platzer}},
+           familyi={K\bibinitperiod}}}%
       }
-      \strng{namehash}{48775876766923f8cc720e47fcbabe85}
-      \strng{fullhash}{48775876766923f8cc720e47fcbabe85}
-      \strng{bibnamehash}{48775876766923f8cc720e47fcbabe85}
-      \strng{authorbibnamehash}{48775876766923f8cc720e47fcbabe85}
-      \strng{authornamehash}{48775876766923f8cc720e47fcbabe85}
-      \strng{authorfullhash}{48775876766923f8cc720e47fcbabe85}
-      \field{labelalpha}{WMS08}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \list{institution}{1}{%
+        {United Nations, Department of Economic and Social Affairs (DESA)}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{editorbibnamehash}{ead40a0f3dc5f769e437a4d55105e800}
+      \strng{editornamehash}{ead40a0f3dc5f769e437a4d55105e800}
+      \strng{editorfullhash}{ead40a0f3dc5f769e437a4d55105e800}
+      \field{labelalpha}{Uni21}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proc. 15th ACM conference on Computer and communications security}
-      \field{title}{Dependent link padding algorithms for low latency anonymity systems}
-      \field{year}{2008}
-      \field{pages}{323\bibrangedash 332}
-      \range{pages}{10}
+      \field{note}{{Design \& graphics by Camilo J. Salomon. Reprinted 2021 [11]. Erstellt als Hintergrunddokument für die Zweite Globale Konferenz für Nachhaltigen Verkehr (Peking, China, 14.–16. Oktober 2021) [12]}}
+      \field{title}{{Sustainable Transport, Sustainable Development: Interagency Report for the Second Global Sustainable Transport Conference}}
+      \field{type}{techreport}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.un.org/en/conferences/transport2021
+      \endverb
+      \verb{url}
+      \verb https://www.un.org/en/conferences/transport2021
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
