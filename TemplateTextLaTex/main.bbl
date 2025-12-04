@@ -112,8 +112,8 @@
       \field{issn}{2363-832X}
       \field{title}{{Treibhausgasemissionen im Transportsektor: Leitfaden zur ISO 14083: Anwendung und Beispiele}}
       \field{type}{techreport}
-      \field{urlday}{1}
-      \field{urlmonth}{12}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
       \field{urlyear}{2025}
       \field{year}{2024}
       \field{urldateera}{ce}
@@ -122,6 +122,37 @@
       \endverb
       \verb{url}
       \verb www.umweltbundesamt.de/publikationen
+      \endverb
+    \endentry
+    \entry{BVL2024}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f8e29b70dda33b7845fe78aa271ba7d2}{%
+           family={{Bundesvereinigung Logistik (BVL) e.V.}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8e29b70dda33b7845fe78aa271ba7d2}
+      \strng{fullhash}{f8e29b70dda33b7845fe78aa271ba7d2}
+      \strng{bibnamehash}{f8e29b70dda33b7845fe78aa271ba7d2}
+      \strng{authorbibnamehash}{f8e29b70dda33b7845fe78aa271ba7d2}
+      \strng{authornamehash}{f8e29b70dda33b7845fe78aa271ba7d2}
+      \strng{authorfullhash}{f8e29b70dda33b7845fe78aa271ba7d2}
+      \field{labelalpha}{Bun24}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{{Die Rolle von KI und IoT im Lager- und Transportmanagement der Zukunft}}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bvl.de/blog/die-rolle-von-ki-und-iot-im-lager-und-transportmanagement-der-zukunft/
+      \endverb
+      \verb{url}
+      \verb https://www.bvl.de/blog/die-rolle-von-ki-und-iot-im-lager-und-transportmanagement-der-zukunft/
       \endverb
     \endentry
     \entry{BMZ2025}{online}{}
@@ -172,8 +203,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Was ist Nachhaltigkeit?}}
-      \field{urlday}{22}
-      \field{urlmonth}{11}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
       \field{urlyear}{2025}
       \field{year}{2025}
       \field{urldateera}{ce}
@@ -210,7 +241,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{{Sustainable Futures}}
       \field{title}{{Role and applications of advanced digital technologies in achieving sustainability in multimodal logistics operations}}
-      \field{urlday}{18}
+      \field{urlday}{15}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
       \field{volume}{8}
@@ -247,6 +278,43 @@
       \endverb
       \verb{url}
       \verb https://www.weforum.org/communities/supply-chain-and-transportation/
+      \endverb
+    \endentry
+    \entry{FraunhoferIML2014}{report}{}
+      \name{author}{1}{}{%
+        {{hash=0c88adda9fa3e74893d061159bce8b96}{%
+           family={{Fraunhofer-Institut für Materialfluss und Logistik IML}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Fraunhofer IML}%
+      }
+      \list{location}{1}{%
+        {Dortmund}%
+      }
+      \strng{namehash}{0c88adda9fa3e74893d061159bce8b96}
+      \strng{fullhash}{0c88adda9fa3e74893d061159bce8b96}
+      \strng{bibnamehash}{0c88adda9fa3e74893d061159bce8b96}
+      \strng{authorbibnamehash}{0c88adda9fa3e74893d061159bce8b96}
+      \strng{authornamehash}{0c88adda9fa3e74893d061159bce8b96}
+      \strng{authorfullhash}{0c88adda9fa3e74893d061159bce8b96}
+      \field{labelalpha}{Fra14}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Big Data für eine optimierte Supply Chain}}
+      \field{type}{techreport}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.industrie40.iml.fraunhofer.de/content/dam/iml/industrie40/de/documents/Studien/140714_Positionspapier_BigData4.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.industrie40.iml.fraunhofer.de/content/dam/iml/industrie40/de/documents/Studien/140714_Positionspapier_BigData4.pdf
       \endverb
     \endentry
     \entry{Greenpeace2025}{online}{}
@@ -373,7 +441,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Developing Smart Logistics for Sustainable Transport}}
-      \field{urlday}{18}
+      \field{urlday}{15}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
       \field{year}{2022}
@@ -397,8 +465,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{17 Ziele für nachhaltige Entwicklung}}
-      \field{urlday}{22}
-      \field{urlmonth}{11}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
       \field{urlyear}{2025}
       \field{year}{2025}
       \field{urldateera}{ce}
@@ -407,6 +475,81 @@
       \endverb
       \verb{url}
       \verb https://unric.org/de/17ziele/
+      \endverb
+    \endentry
+    \entry{SAP2025}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{labelalpha}{SAP25}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{{Was ist ein Transportmanagementsystem (TMS)?}}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sap.com/germany/products/scm/transportation-logistics/what-is-a-tms.html
+      \endverb
+      \verb{url}
+      \verb https://www.sap.com/germany/products/scm/transportation-logistics/what-is-a-tms.html
+      \endverb
+    \endentry
+    \entry{Schroeer2023}{report}{}
+      \name{author}{3}{}{%
+        {{hash=e52ee2e871120e58461642c4d89501da}{%
+           family={Schröer},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0295faa5941d018050ff5745975a7dae}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=30ba3fad49508b2b3f14237e244112f3}{%
+           family={{weitere Autoren}},
+           familyi={w\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {FIR an der RWTH Aachen e.V.}%
+      }
+      \strng{namehash}{57b8355488f4474751ef2cfe22ec7a71}
+      \strng{fullhash}{57b8355488f4474751ef2cfe22ec7a71}
+      \strng{bibnamehash}{57b8355488f4474751ef2cfe22ec7a71}
+      \strng{authorbibnamehash}{57b8355488f4474751ef2cfe22ec7a71}
+      \strng{authornamehash}{57b8355488f4474751ef2cfe22ec7a71}
+      \strng{authorfullhash}{57b8355488f4474751ef2cfe22ec7a71}
+      \field{labelalpha}{SJw23}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Anwendungsorientierte Blockchain-Applikationen im Supply-Chain-Management: Abschlussbericht zum Forschungsprojekt ABChain}}
+      \field{type}{techreport}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://epub.fir.de/files/2984/fir_Janssen_et_al_Abschlussbericht_ABChain_2023.pdf
+      \endverb
+      \verb{url}
+      \verb https://epub.fir.de/files/2984/fir_Janssen_et_al_Abschlussbericht_ABChain_2023.pdf
       \endverb
     \endentry
     \entry{AnalysisTransportSDGs}{report}{}
@@ -431,7 +574,7 @@
       \field{labeltitlesource}{title}
       \field{title}{{Analysis of transport relevance of SDGs}}
       \field{type}{techreport}
-      \field{urlday}{18}
+      \field{urlday}{15}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
@@ -488,7 +631,7 @@
       \field{labeltitlesource}{title}
       \field{title}{{Sustainable freight transport in support of the 2030 Agenda for Sustainable Development}}
       \field{type}{techreport}
-      \field{urlday}{18}
+      \field{urlday}{15}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
       \field{year}{2018}
@@ -516,7 +659,7 @@
       \field{labeltitlesource}{title}
       \field{title}{{Mobilizing Sustainable Transport for Development: Analysis and Policy Recommendations}}
       \field{type}{techreport}
-      \field{urlday}{18}
+      \field{urlday}{15}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
       \field{year}{2016}
@@ -558,7 +701,7 @@
       \field{labeltitlesource}{title}
       \field{title}{{Sustainable Transport, Sustainable Development: Interagency Report for the Second Global Sustainable Transport Conference}}
       \field{type}{techreport}
-      \field{urlday}{18}
+      \field{urlday}{15}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
       \field{year}{2021}

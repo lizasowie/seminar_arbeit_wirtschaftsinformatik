@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  4 DEC 2025 18:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  4 DEC 2025 18:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1519,8 +1519,8 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.100 
-       [1
+l.98 
+      [1
 
 
 
@@ -1694,12 +1694,12 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 
 [13
 
-] [14]
-Overfull \hbox (25.34752pt too wide) in paragraph at lines 292--293
+] [14] [15]
+Overfull \hbox (25.34752pt too wide) in paragraph at lines 306--307
 \T1/ptm/m/it/12 (-20) An-wen-dung und Bei-spie-le\T1/ptm/m/n/12 (-20) . Techn. Ber. Um-welt-bun-des-amt (UBA), 2024. \T1/ptm/m/sc/12 (-20) url\T1/ptm/m/n/12 (-20) : []$www . umweltbundesamt .
  []
 
-[15]
+
 Overfull \hbox (0.23074pt too wide) in paragraph at lines 308--309
 []\T1/ptm/m/n/12 (-20) Umweltbundesamt (UBA).  \T1/ptm/m/it/12 (-20) Emis-sio-nen des Ver-kehrs\T1/ptm/m/n/12 (-20) . 2025. \T1/ptm/m/sc/12 (-20) url\T1/ptm/m/n/12 (-20) : []$https : / / www . umweltbundesamt .
  []
@@ -1732,17 +1732,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42284 strings out of 474486
- 808588 string characters out of 5744227
- 1980542 words of memory out of 5000000
- 63527 multiletter control sequences out of 15000+600000
- 623216 words of font info for 298 fonts, out of 8000000 for 9000
+ 42323 strings out of 474486
+ 809393 string characters out of 5744227
+ 1982542 words of memory out of 5000000
+ 63539 multiletter control sequences out of 15000+600000
+ 626385 words of font info for 315 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,13n,109p,11322b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (21 pages, 157102 bytes).
+Output written on main.pdf (21 pages, 165680 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
+ 390 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
  69805 words of extra memory for PDF output out of 74296 (max. 10000000)
 
