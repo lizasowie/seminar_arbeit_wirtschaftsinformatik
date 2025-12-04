@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1764771454.30343 "main.bcf" "main.bbl" "main" 1764771635.03049 0
-  "i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib" 1764760272 14667 6468a84bdf758997e9b5d0057e77d014 ""
-  "main.bcf" 1764771634 108941 6aacf46ccd42883a9742156303b9d112 "pdflatex"
+["biber main"] 1764868731.92235 "main.bcf" "main.bbl" "main" 1764868738.32566 0
+  "i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib" 1764868726 16096 1fdabae1414635b9118454669cf3ba42 ""
+  "main.bcf" 1764868738 109140 2ee58b8c9c2bd4db268107c301b98a6c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1764771633.20827 "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" "main.pdf" "main" 1764771635.03096 0
+["pdflatex"] 1764868735.92957 "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" "main.pdf" "main" 1764868738.32617 0
   "C:/Users/Liza/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764618728 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Liza/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762252060 24224574 ed321c0755d244c2b7e1659fca5c4bc4 ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -250,14 +250,14 @@
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" 1764771631 16842 e914eb405ce695b45888f112268c3789 ""
-  "main.aux" 1764771634 19942 ef43b8d6ea4129214f422629e8be3a01 "pdflatex"
-  "main.bbl" 1764771455 13162 dc7776439ccff38650fdcd6c1b10b96d "biber main"
-  "main.fls" 1764771634 45391 cdd04236ceeb4191b39a77f02c76c24f ""
-  "main.run.xml" 1764771634 2434 c00eec203e694f183b92ae9eeac8f096 "pdflatex"
-  "main.tdo" 1764771634 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1764771631 16842 e914eb405ce695b45888f112268c3789 ""
-  "main.toc" 1764771634 2125 5938eb059ba4fe2b2b908fb1f9a13c11 "pdflatex"
+  "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" 1764868735 21287 e4c7985ec69f995075858a2d14909812 ""
+  "main.aux" 1764868738 28780 3970ffcaa7f6ac0fe6d48cee5d6280b5 "pdflatex"
+  "main.bbl" 1764868733 23534 6104805ded02169429f62ab52fa7fa59 "biber main"
+  "main.fls" 1764868738 45641 53fbb54b424c4075f7cf065257afe01a ""
+  "main.run.xml" 1764868738 2434 c00eec203e694f183b92ae9eeac8f096 "pdflatex"
+  "main.tdo" 1764868738 4973 c56936c270e770de9255f1fa75cdae5f "pdflatex"
+  "main.tex" 1764868735 21287 e4c7985ec69f995075858a2d14909812 ""
+  "main.toc" 1764868738 1921 58fe424811830ee380dfa75232c48124 "pdflatex"
   "stylesvs.tex" 1762865576 28955 9e92bb5e4fb1eaa1554546b8b8278941 ""
   "tabu.sty" 1762865576 118994 98cfe11e2c593abcfc7d855738ed65af ""
   (generated)

@@ -19,6 +19,51 @@
 
 \refsection{0}
   \datalist[entry]{anyt/global//global/global}
+    \entry{AmmoserHoppe2006}{report}{}
+      \name{author}{2}{}{%
+        {{hash=0c3133acc7f1b0d3fa9d16ea5f7e7499}{%
+           family={Ammoser},
+           familyi={A\bibinitperiod},
+           given={Hendrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=97870f434c3fd87bf64690728ffb36c5}{%
+           family={Hoppe},
+           familyi={H\bibinitperiod},
+           given={Mirko},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Technische Universität Dresden, Fakultät Verkehrswissenschaften „Friedrich List", Institut für Wirtschaft und Verkehr}%
+      }
+      \list{location}{1}{%
+        {Dresden}%
+      }
+      \strng{namehash}{620af6b81552118d1ef789e03a0a6d55}
+      \strng{fullhash}{620af6b81552118d1ef789e03a0a6d55}
+      \strng{bibnamehash}{620af6b81552118d1ef789e03a0a6d55}
+      \strng{authorbibnamehash}{620af6b81552118d1ef789e03a0a6d55}
+      \strng{authornamehash}{620af6b81552118d1ef789e03a0a6d55}
+      \strng{authorfullhash}{620af6b81552118d1ef789e03a0a6d55}
+      \field{labelalpha}{AH06}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1433-626X}
+      \field{title}{{Glossar Verkehrswesen und Verkehrswissenschaften: Definitionen und Erläuterungen zu Begriffen des Transport- und Nachrichtenwesens}}
+      \field{type}{techreport}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hdl.handle.net/10419/22704
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/10419/22704
+      \endverb
+    \endentry
     \entry{UBA2024}{report}{}
       \name{author}{4}{}{%
         {{hash=bd1445e7df19f439b8fc3b9184294f9c}{%
@@ -50,9 +95,6 @@
       \list{institution}{1}{%
         {Umweltbundesamt (UBA)}%
       }
-      \list{location}{1}{%
-        {Dessau-Roßlau}%
-      }
       \strng{namehash}{417de07ad3c6e6944b74877b1b11202d}
       \strng{fullhash}{243dbe9e57d929de3d761ada053d0aaf}
       \strng{bibnamehash}{417de07ad3c6e6944b74877b1b11202d}
@@ -68,15 +110,78 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2363-832X}
-      \field{note}{Abschlussdatum März 2024 [15]. Autoren von ifeu-Institut und Fraunhofer IML [15].}
       \field{title}{{Treibhausgasemissionen im Transportsektor: Leitfaden zur ISO 14083: Anwendung und Beispiele}}
-      \field{type}{Leitfaden}
+      \field{type}{techreport}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
       \field{year}{2024}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb www.umweltbundesamt.de/publikationen
       \endverb
       \verb{url}
       \verb www.umweltbundesamt.de/publikationen
+      \endverb
+    \endentry
+    \entry{BMZ2025}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b6fb2c7005e80c4c71e565dea5157530}{%
+           family={{Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6fb2c7005e80c4c71e565dea5157530}
+      \strng{fullhash}{b6fb2c7005e80c4c71e565dea5157530}
+      \strng{bibnamehash}{b6fb2c7005e80c4c71e565dea5157530}
+      \strng{authorbibnamehash}{b6fb2c7005e80c4c71e565dea5157530}
+      \strng{authornamehash}{b6fb2c7005e80c4c71e565dea5157530}
+      \strng{authorfullhash}{b6fb2c7005e80c4c71e565dea5157530}
+      \field{labelalpha}{Bun25}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{SDG 13: Maßnahmen zum Klimaschutz}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bmz.de/de/agenda-2030/sdg-13
+      \endverb
+      \verb{url}
+      \verb https://www.bmz.de/de/agenda-2030/sdg-13
+      \endverb
+    \endentry
+    \entry{Bundestag2025}{online}{}
+      \name{author}{1}{}{%
+        {{hash=52429adfda2017e33d1c548712accf73}{%
+           family={{Deutscher Bundestag}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{52429adfda2017e33d1c548712accf73}
+      \strng{fullhash}{52429adfda2017e33d1c548712accf73}
+      \strng{bibnamehash}{52429adfda2017e33d1c548712accf73}
+      \strng{authorbibnamehash}{52429adfda2017e33d1c548712accf73}
+      \strng{authornamehash}{52429adfda2017e33d1c548712accf73}
+      \strng{authorfullhash}{52429adfda2017e33d1c548712accf73}
+      \field{labelalpha}{Deu25}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Was ist Nachhaltigkeit?}}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bundestag.de/webarchiv/Ausschuesse/ausschuesse20/weitere_gremien/pbne/vorstellung/was-ist-nachhaltigkeit-890694
+      \endverb
+      \verb{url}
+      \verb https://www.bundestag.de/webarchiv/Ausschuesse/ausschuesse20/weitere_gremien/pbne/vorstellung/was-ist-nachhaltigkeit-890694
       \endverb
     \endentry
     \entry{Fareed2024}{article}{}
@@ -104,10 +209,75 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{{Sustainable Futures}}
-      \field{note}{Systematische Literaturübersicht (SLR); Artikelnummer 100278 [7]}
       \field{title}{{Role and applications of advanced digital technologies in achieving sustainability in multimodal logistics operations}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
       \field{volume}{8}
       \field{year}{2024}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{WEF2025}{online}{}
+      \name{author}{1}{}{%
+        {{hash=df7c8e6f0af3115536a5acfc6220cb01}{%
+           family={Forum},
+           familyi={F\bibinitperiod},
+           given={World\bibnamedelima Economic},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{fullhash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{bibnamehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{authorbibnamehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{authornamehash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \strng{authorfullhash}{df7c8e6f0af3115536a5acfc6220cb01}
+      \field{labelalpha}{For25}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Supply Chain and Transportation}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.weforum.org/communities/supply-chain-and-transportation/
+      \endverb
+      \verb{url}
+      \verb https://www.weforum.org/communities/supply-chain-and-transportation/
+      \endverb
+    \endentry
+    \entry{Greenpeace2025}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1464439fd0fa68cc8ab96fa28474caf3}{%
+           family={{Greenpeace Deutschland}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1464439fd0fa68cc8ab96fa28474caf3}
+      \strng{fullhash}{1464439fd0fa68cc8ab96fa28474caf3}
+      \strng{bibnamehash}{1464439fd0fa68cc8ab96fa28474caf3}
+      \strng{authorbibnamehash}{1464439fd0fa68cc8ab96fa28474caf3}
+      \strng{authornamehash}{1464439fd0fa68cc8ab96fa28474caf3}
+      \strng{authorfullhash}{1464439fd0fa68cc8ab96fa28474caf3}
+      \field{labelalpha}{Gre25}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Was ist Nachhaltigkeit? Eine Definition}}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.greenpeace.de/engagieren/nachhaltiger-leben/was-ist-nachhaltigkeit-eine-definition
+      \endverb
+      \verb{url}
+      \verb https://www.greenpeace.de/engagieren/nachhaltiger-leben/was-ist-nachhaltigkeit-eine-definition
+      \endverb
     \endentry
     \entry{Hausladen2020}{book}{}
       \name{author}{1}{}{%
@@ -137,9 +307,43 @@
       \field{edition}{4., aktualisierte und erweiterte Auflage}
       \field{isbn}{978-3-658-31259-6}
       \field{title}{{IT-gestützte Logistik: Systeme – Prozesse – Anwendungen}}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
       \field{year}{2020}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1007/978-3-658-31260-2
+      \endverb
+    \endentry
+    \entry{LpB-BW2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9e697900498d4101af4d3f5092cca39c}{%
+           family={{Landeszentrale für politische Bildung Baden-Württemberg (LpB BW)}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e697900498d4101af4d3f5092cca39c}
+      \strng{fullhash}{9e697900498d4101af4d3f5092cca39c}
+      \strng{bibnamehash}{9e697900498d4101af4d3f5092cca39c}
+      \strng{authorbibnamehash}{9e697900498d4101af4d3f5092cca39c}
+      \strng{authornamehash}{9e697900498d4101af4d3f5092cca39c}
+      \strng{authorfullhash}{9e697900498d4101af4d3f5092cca39c}
+      \field{labelalpha}{Lan23}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Nachhaltigkeit: Definition, Agenda 2030, UN-Nachhaltigkeitsziele (SDGs), Nachhaltigkeitsstrategien}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lpb-bw.de/dossier-nachhaltigkeit
+      \endverb
+      \verb{url}
+      \verb https://www.lpb-bw.de/dossier-nachhaltigkeit
       \endverb
     \endentry
     \entry{RIOHGIZ2022}{book}{}
@@ -168,9 +372,42 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Implementiert durch RIOH, unterstützt durch GIZ [2]; Layout: Beijing Zhuochuang Design Co. Ltd [3]}
       \field{title}{{Developing Smart Logistics for Sustainable Transport}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
       \field{year}{2022}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{UNRIC2025}{online}{}
+      \name{author}{1}{}{%
+        {{hash=72c6d0e599f964858020cf1598b19acc}{%
+           family={{Regionales Informationszentrum der Vereinten Nationen für Westeuropa (UNRIC)}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{72c6d0e599f964858020cf1598b19acc}
+      \strng{fullhash}{72c6d0e599f964858020cf1598b19acc}
+      \strng{bibnamehash}{72c6d0e599f964858020cf1598b19acc}
+      \strng{authorbibnamehash}{72c6d0e599f964858020cf1598b19acc}
+      \strng{authornamehash}{72c6d0e599f964858020cf1598b19acc}
+      \strng{authorfullhash}{72c6d0e599f964858020cf1598b19acc}
+      \field{labelalpha}{Reg25}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{17 Ziele für nachhaltige Entwicklung}}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://unric.org/de/17ziele/
+      \endverb
+      \verb{url}
+      \verb https://unric.org/de/17ziele/
+      \endverb
     \endentry
     \entry{AnalysisTransportSDGs}{report}{}
       \name{author}{1}{}{%
@@ -192,9 +429,42 @@
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{{Basierend auf dem Titel des Quelldokuments "8656Analysis of transport relevance of SDGs.pdf"; enthält Verweise auf das Ergebnis der Open Working Group (OWG) zu den SDGs, veröffentlicht am 19. Juli 2015 [1]}}
       \field{title}{{Analysis of transport relevance of SDGs}}
       \field{type}{techreport}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{UBA2025}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b744d416e3e0ce674bcc3489dfd4af9a}{%
+           family={{Umweltbundesamt (UBA)}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{b744d416e3e0ce674bcc3489dfd4af9a}
+      \strng{fullhash}{b744d416e3e0ce674bcc3489dfd4af9a}
+      \strng{bibnamehash}{b744d416e3e0ce674bcc3489dfd4af9a}
+      \strng{authorbibnamehash}{b744d416e3e0ce674bcc3489dfd4af9a}
+      \strng{authornamehash}{b744d416e3e0ce674bcc3489dfd4af9a}
+      \strng{authorfullhash}{b744d416e3e0ce674bcc3489dfd4af9a}
+      \field{labelalpha}{Umw25}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Emissionen des Verkehrs}}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.de/daten/verkehr/emissionen-des-verkehrs
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.de/daten/verkehr/emissionen-des-verkehrs
+      \endverb
     \endentry
     \entry{UNCTAD2018}{report}{}
       \name{author}{1}{}{%
@@ -216,11 +486,13 @@
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{{Note by the UNCTAD Secretariat [9]; Behandelt nachhaltigen Güterverkehr [10]}}
-      \field{number}{TD/B/C.I/MEM.7/17}
       \field{title}{{Sustainable freight transport in support of the 2030 Agenda for Sustainable Development}}
       \field{type}{techreport}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
       \field{year}{2018}
+      \field{urldateera}{ce}
     \endentry
     \entry{HLAG2016}{report}{}
       \name{author}{1}{}{%
@@ -242,10 +514,13 @@
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{{Erster globaler Sustainable Transport Outlook Report [4]; Co-Vorsitzende: Martin Lundstedt und Carolina Tohá [5]; Beitrag zur ersten Global Sustainable Transport Conference (Ashgabat, Turkmenistan, November 2016) [6]}}
       \field{title}{{Mobilizing Sustainable Transport for Development: Analysis and Policy Recommendations}}
       \field{type}{techreport}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
       \field{year}{2016}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://sustainabledevelopment.un.org/content/documents/2375Mobilizing%20Sustainable%20Transport.pdf
       \endverb
@@ -281,10 +556,13 @@
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{{Design \& graphics by Camilo J. Salomon. Reprinted 2021 [11]. Erstellt als Hintergrunddokument für die Zweite Globale Konferenz für Nachhaltigen Verkehr (Peking, China, 14.–16. Oktober 2021) [12]}}
       \field{title}{{Sustainable Transport, Sustainable Development: Interagency Report for the Second Global Sustainable Transport Conference}}
       \field{type}{techreport}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.un.org/en/conferences/transport2021
       \endverb
