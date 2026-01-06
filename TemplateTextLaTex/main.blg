@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[68] biber-MSWIN64:340> INFO - === 
-[97] Biber.pm:419> INFO - Reading 'main.bcf'
-[166] Biber.pm:979> INFO - Found 20 citekeys in bib section 0
-[173] Biber.pm:4419> INFO - Processing section 0
-[181] Biber.pm:4610> INFO - Looking for bibtex file 'i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib' for section 0
-[234] bibtex.pm:1713> INFO - LaTeX decoding ...
-[301] bibtex.pm:1519> INFO - Found BibTeX data source 'i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib'
-[385] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[385] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[385] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
-[385] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[401] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[406] bbl.pm:763> INFO - Output to main.bbl
+[70] biber-MSWIN64:340> INFO - === 
+[100] Biber.pm:419> INFO - Reading 'main.bcf'
+[172] Biber.pm:979> INFO - Found 27 citekeys in bib section 0
+[182] Biber.pm:4419> INFO - Processing section 0
+[190] Biber.pm:4610> INFO - Looking for bibtex file 'i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib' for section 0
+[280] bibtex.pm:1713> INFO - LaTeX decoding ...
+[317] bibtex.pm:1519> INFO - Found BibTeX data source 'i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib'
+[424] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[424] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[424] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[424] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[443] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[450] bbl.pm:763> INFO - Output to main.bbl

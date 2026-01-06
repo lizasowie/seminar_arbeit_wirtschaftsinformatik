@@ -64,6 +64,54 @@
       \verb https://hdl.handle.net/10419/22704
       \endverb
     \endentry
+    \entry{BretzkeBarkawi2012NachhaltigeLogistik}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9aa5214973792c896e10d1c49fc560b9}{%
+           family={Bretzke},
+           familyi={B\bibinitperiod},
+           given={Wolf{-}Rüdiger},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f291356e7d76caedf805e0bb6cf2a0e2}{%
+           family={Barkawi},
+           familyi={B\bibinitperiod},
+           given={Karim},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{13add9bf031552fd8af4e239f560adb0}
+      \strng{fullhash}{13add9bf031552fd8af4e239f560adb0}
+      \strng{bibnamehash}{13add9bf031552fd8af4e239f560adb0}
+      \strng{authorbibnamehash}{13add9bf031552fd8af4e239f560adb0}
+      \strng{authornamehash}{13add9bf031552fd8af4e239f560adb0}
+      \strng{authorfullhash}{13add9bf031552fd8af4e239f560adb0}
+      \field{labelalpha}{BB12}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2., aktualisierte und erweiterte Auflage}
+      \field{isbn}{978-3-642-29369-6}
+      \field{title}{{Nachhaltige Logistik: Antworten auf eine globale Herausforderung}}
+      \field{urlday}{7}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-642-29370-2
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-642-29370-2
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-642-29370-2
+      \endverb
+    \endentry
     \entry{UBA2024}{report}{}
       \name{author}{4}{}{%
         {{hash=bd1445e7df19f439b8fc3b9184294f9c}{%
@@ -122,6 +170,53 @@
       \endverb
       \verb{url}
       \verb www.umweltbundesamt.de/publikationen
+      \endverb
+    \endentry
+    \entry{VanBonnLastring2014BigDataSupplyChain}{report}{}
+      \name{author}{2}{}{%
+        {{hash=f1f4ae10f189fdeb68a7a23648bb8e68}{%
+           family={Bonn},
+           familyi={B\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=81486b6a3e0bc7be64e854b29e17973f}{%
+           family={Lastring},
+           familyi={L\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Fraunhofer-Institut für Materialfluss und Logistik IML}%
+      }
+      \list{location}{1}{%
+        {Dortmund}%
+      }
+      \strng{namehash}{0253404c7bee938a6933c091a07673f7}
+      \strng{fullhash}{0253404c7bee938a6933c091a07673f7}
+      \strng{bibnamehash}{0253404c7bee938a6933c091a07673f7}
+      \strng{authorbibnamehash}{0253404c7bee938a6933c091a07673f7}
+      \strng{authornamehash}{0253404c7bee938a6933c091a07673f7}
+      \strng{authorfullhash}{0253404c7bee938a6933c091a07673f7}
+      \field{labelalpha}{BL14}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{{Big Data für eine optimierte Supply Chain: Wie verbessert sich die Planung und Gestaltung von Supply-Chain-Netzwerken durch den Einsatz von Big-Data-Verfahren}}
+      \field{type}{Positionspapier}
+      \field{urlday}{6}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.industrie40.iml.fraunhofer.de/content/dam/iml/industrie40/de/documents/Studien/140714_Positionspapier_BigData4.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.industrie40.iml.fraunhofer.de/content/dam/iml/industrie40/de/documents/Studien/140714_Positionspapier_BigData4.pdf
       \endverb
     \endentry
     \entry{BVL2024}{online}{}
@@ -185,6 +280,50 @@
       \verb https://www.bmz.de/de/agenda-2030/sdg-13
       \endverb
     \endentry
+    \entry{Deckert2021CSRUndLogistik}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c963b8a6d94287ffe3367287e685f322}{%
+           family={Deckert},
+           familyi={D\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{c963b8a6d94287ffe3367287e685f322}
+      \strng{fullhash}{c963b8a6d94287ffe3367287e685f322}
+      \strng{bibnamehash}{c963b8a6d94287ffe3367287e685f322}
+      \strng{authorbibnamehash}{c963b8a6d94287ffe3367287e685f322}
+      \strng{authornamehash}{c963b8a6d94287ffe3367287e685f322}
+      \strng{authorfullhash}{c963b8a6d94287ffe3367287e685f322}
+      \field{labelalpha}{Dec21}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2., überarbeitete und aktualisierte Auflage}
+      \field{isbn}{978-3-662-63569-8}
+      \field{series}{Management-Reihe Corporate Social Responsibility}
+      \field{title}{{CSR und Logistik: Spannungsfelder Green Logistics und City-Logistik}}
+      \field{urlday}{6}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-662-63570-4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.springerprofessional.de/csr-und-logistik/19921498
+      \endverb
+      \verb{url}
+      \verb https://www.springerprofessional.de/csr-und-logistik/19921498
+      \endverb
+    \endentry
     \entry{Bundestag2025}{online}{}
       \name{author}{1}{}{%
         {{hash=52429adfda2017e33d1c548712accf73}{%
@@ -213,6 +352,43 @@
       \endverb
       \verb{url}
       \verb https://www.bundestag.de/webarchiv/Ausschuesse/ausschuesse20/weitere_gremien/pbne/vorstellung/was-ist-nachhaltigkeit-890694
+      \endverb
+    \endentry
+    \entry{EY2023}{report}{}
+      \name{author}{1}{}{%
+        {{hash=0ae0cda87e1873bf726111100c85c9c5}{%
+           family={{Ernst \& Young GmbH Wirtschaftsprüfungsgesellschaft}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ernst \& Young GmbH Wirtschaftsprüfungsgesellschaft}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \strng{namehash}{0ae0cda87e1873bf726111100c85c9c5}
+      \strng{fullhash}{0ae0cda87e1873bf726111100c85c9c5}
+      \strng{bibnamehash}{0ae0cda87e1873bf726111100c85c9c5}
+      \strng{authorbibnamehash}{0ae0cda87e1873bf726111100c85c9c5}
+      \strng{authornamehash}{0ae0cda87e1873bf726111100c85c9c5}
+      \strng{authorfullhash}{0ae0cda87e1873bf726111100c85c9c5}
+      \field{labelalpha}{Ern23}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Digital und nachhaltig: die Zukunft sichern}}
+      \field{type}{techreport}
+      \field{urlday}{6}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ey.com/de_de/functional/forms/download/ey-studie-digital-und-nachhaltig-die-zukunft-si
+      \endverb
+      \verb{url}
+      \verb https://www.ey.com/de_de/functional/forms/download/ey-studie-digital-und-nachhaltig-die-zukunft-si
       \endverb
     \endentry
     \entry{Fareed2024}{article}{}
@@ -384,6 +560,106 @@
       \verb 10.1007/978-3-658-31260-2
       \endverb
     \endentry
+    \entry{KadlubekEtAl2024ITS}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a37575aef84e46678c2a61ea9d3195c2}{%
+           family={Kad{ł}ubek},
+           familyi={K\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c6eaebbeb866b8a953bd5768e9acec4d}{%
+           family={Rodrigues\bibnamedelimb da\bibnamedelima Silva},
+           familyi={R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=534d9f3fd6d0a146906cdfb07b85fa9b}{%
+           family={Domaga{ł}a},
+           familyi={D\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=71e2fca06d0c024d308f90a0a3d3d2ca}{%
+           family={Rizun},
+           familyi={R\bibinitperiod},
+           given={Mariia},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Gdańsk, Poland}%
+      }
+      \list{organization}{1}{%
+        {AIS Electronic Library (AISeL)}%
+      }
+      \strng{namehash}{10dbfbcf8e60a666512c9d302aad3903}
+      \strng{fullhash}{bb02bdb68fffdad372fc3b9f149235ea}
+      \strng{bibnamehash}{10dbfbcf8e60a666512c9d302aad3903}
+      \strng{authorbibnamehash}{10dbfbcf8e60a666512c9d302aad3903}
+      \strng{authornamehash}{10dbfbcf8e60a666512c9d302aad3903}
+      \strng{authorfullhash}{bb02bdb68fffdad372fc3b9f149235ea}
+      \field{labelalpha}{Kad+24}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Information Systems Development (ISD 2024): Harnessing Opportunities -- Reshaping ISD in the Post-COVID-19 and Industry 5.0 Era}}
+      \field{title}{{Impact of ITS Applications on Green Logistics and Customer Service Performance}}
+      \field{urlday}{6}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.62036/isd.2024.64
+      \endverb
+      \verb{urlraw}
+      \verb https://aisel.aisnet.org/isd2014/proceedings2024/transformation/18/
+      \endverb
+      \verb{url}
+      \verb https://aisel.aisnet.org/isd2014/proceedings2024/transformation/18/
+      \endverb
+    \endentry
+    \entry{Kayikci2024DigitalizationResilienceCargo}{article}{}
+      \name{author}{2}{}{%
+        {{hash=99cc5cef8b6726c01bfc0b382acfb725}{%
+           family={Kayikci},
+           familyi={K\bibinitperiod},
+           given={Yeliz},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9db4a03c2b765e3e872d5d683165f511}{%
+           family={{co-authors}},
+           familyi={a\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0df889b982b0e3cd5425cec7c1839a4e}
+      \strng{fullhash}{0df889b982b0e3cd5425cec7c1839a4e}
+      \strng{bibnamehash}{0df889b982b0e3cd5425cec7c1839a4e}
+      \strng{authorbibnamehash}{0df889b982b0e3cd5425cec7c1839a4e}
+      \strng{authornamehash}{0df889b982b0e3cd5425cec7c1839a4e}
+      \strng{authorfullhash}{0df889b982b0e3cd5425cec7c1839a4e}
+      \field{labelalpha}{Kc24}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Engineering Management}
+      \field{title}{{Exploring Digitalization, Resilience, and Sustainability Challenges in the Cargo Transportation Industry}}
+      \field{urlday}{7}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{71}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1109/TEM.2024.10631286
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10631286
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10631286
+      \endverb
+    \endentry
     \entry{LpB-BW2023}{online}{}
       \name{author}{1}{}{%
         {{hash=9e697900498d4101af4d3f5092cca39c}{%
@@ -508,48 +784,106 @@
       \verb https://www.sap.com/germany/products/scm/transportation-logistics/what-is-a-tms.html
       \endverb
     \endentry
-    \entry{Schroeer2023}{report}{}
+    \entry{SchroeerEtAl2023ABChain}{report}{}
       \name{author}{3}{}{%
-        {{hash=e52ee2e871120e58461642c4d89501da}{%
+        {{hash=6ef8c3c62988cf75a0b6bd1e52855640}{%
            family={Schröer},
            familyi={S\bibinitperiod},
-           given={T.},
+           given={Tobias},
            giveni={T\bibinitperiod}}}%
-        {{hash=0295faa5941d018050ff5745975a7dae}{%
+        {{hash=11b2615010667f11fdfe960b02c49878}{%
            family={Janssen},
            familyi={J\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=30ba3fad49508b2b3f14237e244112f3}{%
-           family={{weitere Autoren}},
-           familyi={w\bibinitperiod}}}%
+           given={Jokim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=949be0f541336d6466c751f30b52303b}{%
+           family={Rahn},
+           familyi={R\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {FIR an der RWTH Aachen e.V.}%
+        {FIR e. V. an der RWTH Aachen}%
       }
-      \strng{namehash}{57b8355488f4474751ef2cfe22ec7a71}
-      \strng{fullhash}{57b8355488f4474751ef2cfe22ec7a71}
-      \strng{bibnamehash}{57b8355488f4474751ef2cfe22ec7a71}
-      \strng{authorbibnamehash}{57b8355488f4474751ef2cfe22ec7a71}
-      \strng{authornamehash}{57b8355488f4474751ef2cfe22ec7a71}
-      \strng{authorfullhash}{57b8355488f4474751ef2cfe22ec7a71}
-      \field{labelalpha}{SJw23}
+      \list{location}{1}{%
+        {Aachen}%
+      }
+      \strng{namehash}{2448dc86d402635d9aa4e37e0c46b167}
+      \strng{fullhash}{2448dc86d402635d9aa4e37e0c46b167}
+      \strng{bibnamehash}{2448dc86d402635d9aa4e37e0c46b167}
+      \strng{authorbibnamehash}{2448dc86d402635d9aa4e37e0c46b167}
+      \strng{authornamehash}{2448dc86d402635d9aa4e37e0c46b167}
+      \strng{authorfullhash}{2448dc86d402635d9aa4e37e0c46b167}
+      \field{labelalpha}{SJR23}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Anwendungsorientierte Blockchain-Applikationen im Supply-Chain-Management: Abschlussbericht zum Forschungsprojekt ABChain}}
-      \field{type}{techreport}
-      \field{urlday}{18}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
+      \field{title}{{ABChain -- Anwendungsorientierte Blockchain-Applikationen im Supply-Chain-Management: Schlussbericht vom 15.03.2023 zu IGF-Vorhaben Nr. 21256N}}
+      \field{type}{Schlussbericht}
+      \field{urlday}{7}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
       \field{year}{2023}
       \field{urldateera}{ce}
+      \field{pages}{48}
+      \range{pages}{1}
       \verb{urlraw}
       \verb https://epub.fir.de/files/2984/fir_Janssen_et_al_Abschlussbericht_ABChain_2023.pdf
       \endverb
       \verb{url}
       \verb https://epub.fir.de/files/2984/fir_Janssen_et_al_Abschlussbericht_ABChain_2023.pdf
+      \endverb
+    \endentry
+    \entry{SchmalzriedRitzrau2022ITNachhaltigkeit}{article}{}
+      \name{author}{2}{}{%
+        {{hash=57d78bc84fe63ac406e7bccfa32ef6b5}{%
+           family={Schmalzried},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=13be8ea54bd854e3a77dbc15eddb2b2f}{%
+           family={Ritzrau},
+           familyi={R\bibinitperiod},
+           given={Will},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{a1fefb24c022d68813392df23e219535}
+      \strng{fullhash}{a1fefb24c022d68813392df23e219535}
+      \strng{bibnamehash}{a1fefb24c022d68813392df23e219535}
+      \strng{authorbibnamehash}{a1fefb24c022d68813392df23e219535}
+      \strng{authornamehash}{a1fefb24c022d68813392df23e219535}
+      \strng{authorfullhash}{a1fefb24c022d68813392df23e219535}
+      \field{labelalpha}{SR22}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wirtschaftsinformatik \& Management}
+      \field{number}{1}
+      \field{title}{{Der Beitrag der IT zu mehr Nachhaltigkeit in Unternehmen}}
+      \field{urlday}{6}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{68\bibrangedash 75}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1365/s35764-021-00377-0
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1365/s35764-021-00377-0
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1365/s35764-021-00377-0
       \endverb
     \endentry
     \entry{AnalysisTransportSDGs}{report}{}

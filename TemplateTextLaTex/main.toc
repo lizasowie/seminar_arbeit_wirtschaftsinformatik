@@ -7,17 +7,14 @@
 \contentsline {section}{\numberline {2.1}Transportwirtschaft und ihre Herausforderungen}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Nachhaltigkeit mit Bezug auf Transportwirtschaft}{3}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Wirtschaftsinformatik und Smart Logistics}{4}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Anwendung nachhaltiger IT-gestützten Lösungsansätze}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Effizienzsteigerung durch Management Systeme (TMS) und Routenoptimierung}{5}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Funktionsweise und Mehrwert}{5}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Rolle von KI und Big Data in der Routenoptimierung}{5}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Intelligente Transportsysteme (ITS) und Internet of Things (IoT)}{6}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Blockchain Technologien in Lieferketten}{7}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Anwendungsbeispiel}{8}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Amazon Web Services Inc.}{8}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Bewertung}{8}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Fazit}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Ausblick}{10}{chapter.6}%
-\contentsline {chapter}{\nonumberline Literatur}{11}{chapter*.30}%
+\contentsline {chapter}{\numberline {3}Anwendungsszenarien für IT-gestützte Lösungsansätze}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Transportation Management Systeme und Enterprise Resource Planning}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Intelligente Transportsysteme und Internet of Things}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Plattformökonomie und datengetriebene Kooperationsmodelle}{7}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Blockchain Technologien}{7}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Predictive Logistics und Künstliche Intelligenz}{8}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Fazit}{10}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Ausblick}{11}{chapter.5}%
+\contentsline {chapter}{\nonumberline Literatur}{12}{chapter*.21}%
 \def \@chapapp {\appendixname }
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
