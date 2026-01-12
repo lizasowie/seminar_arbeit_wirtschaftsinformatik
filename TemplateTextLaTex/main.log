@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  12 JAN 2026 13:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  12 JAN 2026 13:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1544,12 +1544,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 
 [3
 
-] [4]
-Overfull \hbox (55.85475pt too wide) in paragraph at lines 149--150
-\T1/ptm/m/n/12 (-20) di-äre (IT-gestützte-Logistik_Iris Haus-la-den.pdf, fir_Janssen_et_al_Abschlussbericht_ABChain_2023.pdf). 
- []
-
-[5] [6]
+] [4] [5]
 chapter 3.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
@@ -1562,19 +1557,19 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[7
+[6
 
 ]
-Overfull \hbox (18.9998pt too wide) in paragraph at lines 194--198
+Overfull \hbox (18.9998pt too wide) in paragraph at lines 189--193
 \T1/ptm/m/n/12 (-20) Neben TMS und ERP er-mög-li-chen auch Platt-form-mo-del-le die Um-set-zung der ^^PTwin-Transformation^^Q
  []
 
-[8] [9] [10]
-Overfull \hbox (26.14325pt too wide) in paragraph at lines 238--239
+[7] [8] [9]
+Overfull \hbox (26.14325pt too wide) in paragraph at lines 233--234
 \T1/ptm/m/n/12 (-20) IT[]Infrastruktur und Fach-per-so-nal. [1-s2.0-S0268401224000021-main.pdf, Kc24] Ein Rebound[]Effekt
  []
 
-[11]
+[10]
 chapter 4.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
@@ -1587,7 +1582,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[12
+[11
 
 ]
 chapter 5.
@@ -1602,7 +1597,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[13
+[12
 
 ]
 chapter without number
@@ -1618,53 +1613,53 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              that will remove this deprecated code.
 
 
-Overfull \hbox (0.16156pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.16156pt too wide) in paragraph at lines 259--259
 \T1/ptm/m/it/12 (+11) Nach-rich-ten-we-sens\T1/ptm/m/n/12 (+11) . Techn. Ber. Dres-den: Tech-ni-sche Uni-ver-si-tät Dres-den, Fa-kul- 
  []
 
 
-Overfull \hbox (0.17076pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.17076pt too wide) in paragraph at lines 259--259
 \T1/ptm/m/n/12 (+17) Heidelberg: Springer, 2012. \T1/ptm/m/sc/12 (+17) isbn\T1/ptm/m/n/12 (+17) : 978-3-642-29369-6. \T1/ptm/m/sc/12 (+17) doi\T1/ptm/m/n/12 (+17) : []$10 . 1007 / 978 -[] 3 -[] 642 -[] 
  []
 
 
-Overfull \hbox (13.33852pt too wide) in paragraph at lines 264--264
+Overfull \hbox (13.33852pt too wide) in paragraph at lines 259--259
 \T1/ptm/m/it/12 (-20) Chain: Wie ver-bes-sert sich die Pla-nung und Ge-stal-tung von Supply-Chain-Netzwerken 
  []
 
 
-Overfull \hbox (0.1504pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.1504pt too wide) in paragraph at lines 259--259
 []\T1/ptm/m/n/12 (+9) Bundesvereinigung Logistik (BVL) e.V.  \T1/ptm/m/it/12 (+9) Die Rolle von KI und IoT im Lager- und 
  []
 
 
-Overfull \hbox (0.17232pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.17232pt too wide) in paragraph at lines 259--259
 []\T1/ptm/m/n/12 (-3) Deutscher Bun-des-tag.  \T1/ptm/m/it/12 (-3) Was ist Nach-hal-tig-keit? \T1/ptm/m/n/12 (-3) 2025. \T1/ptm/m/sc/12 (-3) url\T1/ptm/m/n/12 (-3) : []$https : / / www . bundestag . 
  []
 
 
-Overfull \hbox (0.22073pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.22073pt too wide) in paragraph at lines 259--259
 \T1/ptm/m/it/12 (+20) die Zu-kunft si-chern\T1/ptm/m/n/12 (+20) . Techn. Ber. Stutt-gart: Ernst & Young GmbH Wirt-schafts-prü- 
  []
 
-[14
+[13
 
 ]
-Overfull \hbox (0.18263pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.18263pt too wide) in paragraph at lines 259--259
 \T1/ptm/m/n/12 (+20) / / www . industrie40 . iml . fraunhofer . de / content / dam / iml / industrie40 / de / documents / 
  []
 
 
-Overfull \hbox (0.10484pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.10484pt too wide) in paragraph at lines 259--259
 \T1/ptm/m/n/12 (+3) (GIZ) GmbH.  \T1/ptm/m/it/12 (+3) Developing Smart Logistics for Sustainable Transport\T1/ptm/m/n/12 (+3) . Beijing, PR 
  []
 
 
-Overfull \hbox (0.13025pt too wide) in paragraph at lines 264--264
+Overfull \hbox (0.13025pt too wide) in paragraph at lines 259--259
 []\T1/ptm/m/n/12 (+3) SAP SE.  \T1/ptm/m/it/12 (+3) Was ist ein Transportmanagementsystem (TMS)? \T1/ptm/m/n/12 (+3) Nov. 2025. \T1/ptm/m/sc/12 (+3) url\T1/ptm/m/n/12 (+3) : []$https : 
  []
 
-[15] [16]
+[14] [15]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1676,19 +1671,19 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[17
+[16
 
-] [18] [19]
-Overfull \hbox (25.34752pt too wide) in paragraph at lines 367--368
+] [17] [18]
+Overfull \hbox (25.34752pt too wide) in paragraph at lines 362--363
 \T1/ptm/m/it/12 (-20) An-wen-dung und Bei-spie-le\T1/ptm/m/n/12 (-20) . Techn. Ber. Um-welt-bun-des-amt (UBA), 2024. \T1/ptm/m/sc/12 (-20) url\T1/ptm/m/n/12 (-20) : []$www . umweltbundesamt .
  []
 
 
-Overfull \hbox (0.23074pt too wide) in paragraph at lines 369--370
+Overfull \hbox (0.23074pt too wide) in paragraph at lines 364--365
 []\T1/ptm/m/n/12 (-20) Umweltbundesamt (UBA).  \T1/ptm/m/it/12 (-20) Emis-sio-nen des Ver-kehrs\T1/ptm/m/n/12 (-20) . 2025. \T1/ptm/m/sc/12 (-20) url\T1/ptm/m/n/12 (-20) : []$https : / / www . umweltbundesamt .
  []
 
-[20] [21] (main.aux)
+[19] [20] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1698,17 +1693,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42051 strings out of 474486
- 804083 string characters out of 5744227
+ 42050 strings out of 474486
+ 804076 string characters out of 5744227
  1943542 words of memory out of 5000000
  63268 multiletter control sequences out of 15000+600000
  626760 words of font info for 332 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,13n,109p,11322b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (24 pages, 183779 bytes).
+Output written on main.pdf (23 pages, 183135 bytes).
 PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
  69781 words of extra memory for PDF output out of 74296 (max. 10000000)
 

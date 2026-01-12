@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1768221280.4488 "main.bcf" "main.bbl" "main" 1768221826.8874 0
+["biber main"] 1768221280.4488 "main.bcf" "main.bbl" "main" 1768222094.61426 0
   "i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib" 1767740888 21773 6d86786913a6f3f5c1147869d7c3e915 ""
-  "main.bcf" 1768221826 110127 34d63b3c5f73caad901ec1101e975d65 "pdflatex"
+  "main.bcf" 1768222094 110127 34d63b3c5f73caad901ec1101e975d65 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1768221824.82828 "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" "main.pdf" "main" 1768221826.88788 0
+["pdflatex"] 1768222092.39371 "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" "main.pdf" "main" 1768222094.61495 0
   "C:/Users/Liza/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764618728 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Liza/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762252060 24224574 ed321c0755d244c2b7e1659fca5c4bc4 ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -253,13 +253,13 @@
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/Liza/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" 1768221824 48076 2cc5ec11e43f318e475f64f6fc9ca277 ""
-  "main.aux" 1768221826 18432 7808c9f201290083087d4aa49149d7c3 "pdflatex"
+  "i:/Code/seminararbeit_wirtschaftsinformatik/seminar_arbeit_wirtschaftsinformatik/TemplateTextLaTex/main.tex" 1768222091 47997 df2e5ec80fb82c6e2e827f2e569e9bfa ""
+  "main.aux" 1768222094 18431 619fdec02fc7f6004537b35cacfc6712 "pdflatex"
   "main.bbl" 1768221290 42762 1f03b4ef54b017445ecafc6032273cc6 "biber main"
-  "main.fls" 1768221826 45820 3ea26cb755be97ca4efa41099ce5f553 ""
-  "main.run.xml" 1768221826 2434 c00eec203e694f183b92ae9eeac8f096 "pdflatex"
-  "main.tex" 1768221824 48076 2cc5ec11e43f318e475f64f6fc9ca277 ""
-  "main.toc" 1768221826 1644 4464dd72bc5d6f8372a33519a471f46a "pdflatex"
+  "main.fls" 1768222094 45820 3ea26cb755be97ca4efa41099ce5f553 ""
+  "main.run.xml" 1768222094 2434 c00eec203e694f183b92ae9eeac8f096 "pdflatex"
+  "main.tex" 1768222091 47997 df2e5ec80fb82c6e2e827f2e569e9bfa ""
+  "main.toc" 1768222094 1643 752f105b22fd1f4ac8a53e74f16aafef "pdflatex"
   "stylesvs.tex" 1762865576 28955 9e92bb5e4fb1eaa1554546b8b8278941 ""
   "tabu.sty" 1762865576 118994 98cfe11e2c593abcfc7d855738ed65af ""
   (generated)
