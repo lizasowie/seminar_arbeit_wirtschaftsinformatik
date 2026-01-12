@@ -531,7 +531,6 @@ INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.t
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
-INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc8t.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
@@ -539,10 +538,6 @@ INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc8t.vf
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\Liza\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
-INPUT .\main.tdo
-INPUT .\main.tdo
-INPUT main.tdo
-OUTPUT main.tdo
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml

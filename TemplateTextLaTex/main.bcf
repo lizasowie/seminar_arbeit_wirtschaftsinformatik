@@ -2361,11 +2361,11 @@
     <bcf:datasource type="file" datatype="bibtex">i:\Code\seminararbeit_wirtschaftsinformatik\seminar_arbeit_wirtschaftsinformatik\TemplateTextLaTex\main.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Greenpeace2025</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">LpB-BW2023</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">LpB-BW2023</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">Hausladen2020</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">FraunhoferIML2014</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">Hausladen2020</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">EY2023</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">EY2023</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">EY2023</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">EY2023</bcf:citekey>
     <bcf:citekey order="6" intorder="1">AmmoserHoppe2006</bcf:citekey>
     <bcf:citekey order="7" intorder="1">AnalysisTransportSDGs</bcf:citekey>
     <bcf:citekey order="8" intorder="1">BMZ2025</bcf:citekey>

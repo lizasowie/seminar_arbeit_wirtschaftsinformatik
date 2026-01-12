@@ -4,17 +4,17 @@
 \contentsline {section}{\numberline {1.2}Zielsetzung}{1}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Aufbau der Semianrarbeit}{1}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Grundlagen}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Transportwirtschaft und ihre Herausforderungen}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Nachhaltigkeit mit Bezug auf Transportwirtschaft}{3}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Wirtschaftsinformatik und Smart Logistics}{4}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Anwendungsszenarien für IT-gestützte Lösungsansätze}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Transportation Management Systeme und Enterprise Resource Planning}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Intelligente Transportsysteme und Internet of Things}{6}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Plattformökonomie und datengetriebene Kooperationsmodelle}{7}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Blockchain Technologien}{7}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Predictive Logistics und Künstliche Intelligenz}{8}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Fazit}{10}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Ausblick}{11}{chapter.5}%
-\contentsline {chapter}{\nonumberline Literatur}{12}{chapter*.21}%
+\contentsline {section}{\numberline {2.1}Transportwirtschaft}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Nachhaltigkeit mit Bezug auf Transportwirtschaft}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Wirtschaftsinformatik und Smart Logistics}{5}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Anwendungsszenarien für IT-gestützte Lösungsansätze}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Transportation Management Systeme und Enterprise Resource Planning}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Intelligente Transportsysteme und Internet of Things}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Plattformökonomie und datengetriebene Kooperationsmodelle}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Blockchain Technologien}{9}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Predictive Logistics und Künstliche Intelligenz}{10}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Fazit}{12}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Ausblick}{13}{chapter.5}%
+\contentsline {chapter}{\nonumberline Literatur}{14}{chapter*.2}%
 \def \@chapapp {\appendixname }
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
